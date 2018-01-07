@@ -1,0 +1,20 @@
+
+MoneyAni.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 1, 1
+  size: 57, 59
+  orig: 60, 60
+  offset: 1, 0
+  index: -1
+shop_button
+  rotate: false
+  xy: 1, 61
+  size: 214, 175
+  orig: 215, 175
+  offset: 0, 0
+  index: -1

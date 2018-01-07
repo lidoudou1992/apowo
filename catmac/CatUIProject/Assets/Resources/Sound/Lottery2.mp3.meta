@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6092fc5f420fe2741bcc8e3872e7a898
+timeCreated: 1476753032
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: lottery2
+  assetBundleVariant: 

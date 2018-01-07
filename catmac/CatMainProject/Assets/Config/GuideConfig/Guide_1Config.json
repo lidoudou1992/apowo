@@ -1,0 +1,162 @@
+﻿[
+  {
+    "Actions": [
+      {
+        "Type": "Say",
+        "Content": "感谢您进入猫宅日记的世界\n猫宅日记讨论群：568976138"
+      },
+      {
+        "Type": "Say",
+        "Content": "这是一款休闲放置类游戏，\n放置玩具和猫粮就可以吸引猫主子来游玩~"
+      },
+      {
+        "Type": "Say",
+        "Content": "点击右下角的菜单按钮~"
+      },
+      {
+        "Type": "ShowGesture",
+        "Content": "InfoBar#Button",
+        "GestureParams": "1#0#0#0"
+      },
+      {
+        "Type": "SelectProp",
+        "Content": "ShopPanel#ShopCellItem",
+        "GestureParams": "3#0#30#0",
+        "PropParam": "3002"
+      },
+      {
+        "Type": "SelectProp",
+        "Content": "ShopPanel#ShopCellItem",
+        "GestureParams": "3#0#30#0",
+        "PropParam": "3002"
+      },
+      {
+        "Type": "ShowGesture",
+        "Content": "PropPopup#ButtonGroup/Left",
+        "GestureParams": "3#0#0#0"
+      },
+      {
+        "Type": "WaitForServer",
+        "Content": "NewFurni"
+      },
+      {
+        "Type": "SendMsg",
+        "Content": ""
+      }
+    ]
+  },
+  {
+    "Actions": [
+      {
+        "Type": "Say",
+        "Content": "好样的~ 红色皮球已经买到了。",
+        "StartPanel": "ShopPanel"
+      },
+      {
+        "Type": "SendMsg",
+        "Content": ""
+      }
+    ]
+  },
+  {
+    "Actions": [
+      {
+        "Type": "Say",
+        "Content": "玩具有大型和小型之分，大型的玩具要占用两个空间！小型玩具只占一个空间，一定要合理安排~",
+        "StartPanel": "ShopPanel"
+      },
+      {
+        "Type": "Say",
+        "Content": "让我们把刚买的“红色皮球”放置到院子里"
+      },
+      {
+        "Type": "Say",
+        "Content": "选择仓库~"
+      },
+      {
+        "Type": "ShowGesture",
+        "Content": "SystemBar#Bag",
+        "GestureParams": "1#0#0#0",
+        "MaskBorderParas": "0#50"
+      },
+      {
+        "Type": "Say",
+        "Content": "双击“红色皮球”。"
+      },
+      {
+        "Type": "SelectProp",
+        "Content": "BagPanel#BagCellItem",
+        "GestureParams": "3#0#20#0",
+        "PropParam": "3002"
+      },
+      {
+        "Type": "SelectProp",
+        "Content": "BagPanel#BagCellItem",
+        "GestureParams": "3#0#20#0",
+        "PropParam": "3002"
+      },
+      {
+        "Type": "WaitForServer",
+        "Content": "PlaceObject"
+      },
+      {
+        "Type": "Say",
+        "Content": "好样的，皮球已经放在院子里了。"
+      },
+      {
+        "Type": "SendMsg",
+        "Content": ""
+      }
+    ]
+  },
+  {
+    "Actions": [
+      {
+        "Type": "Say",
+        "Content": "我们用点猫粮吸引那些吃货喵吧"
+      },
+      {
+        "Type": "Say",
+        "Content": "点击空的猫碗"
+      },
+      {
+        "Type": "ShowGestureIScene",
+        "Content": "SceneRoot#Scene001(Clone)/MiddleLayer/Content/InteractivePoints/FoodPoint_1",
+        "GestureParams": "1#0#0#0"
+      },
+      {
+        "Type": "Say",
+        "Content": "选择免费猫粮。"
+      },
+      {
+        "Type": "ShowGesture",
+        "Content": "FoodPopupPanel#GameObject/Container/Food1",
+        "GestureParams": "1#0#0#0"
+      },
+      {
+        "Type": "Say",
+        "Content": "万事俱备了，就等猫主子大驾光临了~ "
+      },
+      {
+        "Type": "Say",
+        "Content": "猫主子玩得舒心了，会奖励你小鱼干哦~努力哄主子开心吧！\n获得100银鱼干，20金鱼干"
+      },
+      {
+        "Type": "SendMsg",
+        "Content": ""
+      }
+    ]
+  },
+  {
+    "Actions": [
+      {
+        "Type": "Say",
+        "Content": "还有什么不懂的，就到猫咪学堂来找我哦~\n有只可爱的猫出现了,快去瞧瞧~。"
+      },
+      {
+        "Type": "SendMsg",
+        "Content": ""
+      }
+    ]
+  }
+]

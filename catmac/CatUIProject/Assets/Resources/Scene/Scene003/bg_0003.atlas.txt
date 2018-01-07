@@ -1,0 +1,90 @@
+
+bg_0003.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c0002
+  rotate: false
+  xy: 1, 502
+  size: 1702, 1177
+  orig: 1702, 1177
+  offset: 0, 0
+  index: -1
+c0003
+  rotate: false
+  xy: 1752, 1512
+  size: 68, 167
+  orig: 68, 167
+  offset: 0, 0
+  index: -1
+c0006
+  rotate: false
+  xy: 1752, 1458
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+c0007
+  rotate: false
+  xy: 1822, 1661
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+c0008
+  rotate: false
+  xy: 38, 428
+  size: 173, 72
+  orig: 173, 72
+  offset: 0, 0
+  index: -1
+c0009
+  rotate: false
+  xy: 38, 308
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+c0010
+  rotate: false
+  xy: 1, 1
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+c0011
+  rotate: false
+  xy: 1, 16
+  size: 33, 226
+  orig: 33, 226
+  offset: 0, 0
+  index: -1
+c0012
+  rotate: false
+  xy: 1, 244
+  size: 35, 256
+  orig: 35, 256
+  offset: 0, 0
+  index: -1
+c0013
+  rotate: true
+  xy: 1705, 1392
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+c0015
+  rotate: true
+  xy: 213, 445
+  size: 55, 114
+  orig: 55, 114
+  offset: 0, 0
+  index: -1
+c0017
+  rotate: false
+  xy: 1705, 1450
+  size: 45, 229
+  orig: 45, 229
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+TalkingAni2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+talking
+  rotate: true
+  xy: 1, 3
+  size: 112, 127
+  orig: 112, 127
+  offset: 0, 0
+  index: -1
+talking2
+  rotate: true
+  xy: 1, 1
+  size: 1, 25
+  orig: 1, 25
+  offset: 0, 0
+  index: -1

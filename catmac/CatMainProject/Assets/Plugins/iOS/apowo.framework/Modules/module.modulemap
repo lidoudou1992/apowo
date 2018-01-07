@@ -1,0 +1,6 @@
+framework module apowo {
+  umbrella header "apowo.h"
+
+  export *
+  module * { export * }
+}

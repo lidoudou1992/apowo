@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 653005264
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 602f6fe5ecd7241b77d7a4229a354e71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pic/CatGift/cat117_gift.png
+- Assets/Pic/CatGift/cat025_gift.png
+- Assets/Pic/CatGift/cat109_gift.png
+- Assets/Pic/CatGift/cat103_gift.png
+- Assets/Pic/CatGift/cat104_gift.png
+- Assets/Pic/CatGift/cat014_gift.png
+- Assets/Pic/CatGift/cat024_gift.png
+- Assets/Pic/CatGift/cat008_gift.png
+- Assets/Pic/CatGift/cat023_gift.png
+- Assets/Pic/CatGift/cat106_gift.png
+- Assets/Pic/CatGift/cat110_gift.png
+- Assets/Pic/CatGift/cat107_gift.png
+- Assets/Pic/CatGift/cat011_gift.png
+- Assets/Pic/CatGift/cat102_gift.png
+- Assets/Pic/CatGift/cat006_gift.png
+- Assets/Pic/CatGift/cat022_gift.png
+- Assets/Pic/CatGift/cat010_gift.png
+- Assets/Pic/CatGift/cat015_gift.png
+- Assets/Pic/CatGift/cat004_gift.png
+- Assets/Pic/CatGift/cat018_gift.png
+- Assets/Pic/CatGift/cat002_gift.png
+- Assets/Pic/CatGift/cat003_gift.png
+- Assets/Pic/CatGift/cat016_gift.png
+- Assets/Pic/CatGift/cat019_gift.png
+- Assets/Pic/CatGift/cat020_gift.png
+- Assets/Pic/CatGift/cat108_gift.png
+- Assets/Pic/CatGift/cat112_gift.png
+- Assets/Pic/CatGift/cat105_gift.png
+- Assets/Pic/CatGift/cat017_gift.png
+- Assets/Pic/CatGift/cat021_gift.png
+- Assets/Pic/CatGift/cat119_gift.png
+- Assets/Pic/CatGift/cat005_gift.png
+- Assets/Pic/CatGift/cat113_gift.png
+- Assets/Pic/CatGift/cat116_gift.png
+- Assets/Pic/CatGift/cat013_gift.png
+- Assets/Pic/CatGift/cat012_gift.png
+- Assets/Pic/CatGift/cat009_gift.png
+- Assets/Pic/CatGift/cat001_gift.png
+- Assets/Pic/CatGift/cat101_gift.png
+- Assets/Pic/CatGift/cat111_gift.png
+- Assets/Pic/CatGift/cat007_gift.png
+Dependencies: []

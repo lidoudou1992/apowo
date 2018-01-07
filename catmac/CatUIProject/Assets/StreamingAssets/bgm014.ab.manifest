@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2179273216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4d512181920f87cf3eb1c890a66baf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sound/BGM014.ogg
+Dependencies: []

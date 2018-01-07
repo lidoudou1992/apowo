@@ -1,0 +1,422 @@
+[02月09日18:09:59.416]OnUpdateOver==null? False
+[02月09日18:09:59.421]addLoadSet flymodel.pdb.ab 
+[02月09日18:09:59.421]addLoadSet flymodel.dll.ab 
+[02月09日18:09:59.423]TryLoadAssetBundleStart
+[02月09日18:09:59.424]TryLoadAssetBundle flymodel.pdb.ab
+[02月09日18:09:59.425]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.pdb.ab
+[02月09日18:09:59.425]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.pdb.ab
+[02月09日18:09:59.426]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.pdb.ab
+[02月09日18:09:59.426]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.pdb.ab
+[02月09日18:09:59.427]TryLoadAssetBundleOver
+[02月09日18:09:59.473]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.pdb.ab
+[02月09日18:09:59.473]WWWEnd-[flymodel.pdb.ab] cost 0.04969931 loadAsync:True
+[02月09日18:09:59.474]MemoryLoad[flymodel.pdb.ab] cost 0
+[02月09日18:09:59.489]TryLoadAssetBundleStart
+[02月09日18:09:59.489]TryLoadAssetBundle flymodel.dll.ab
+[02月09日18:09:59.489]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.dll.ab
+[02月09日18:09:59.490]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.dll.ab
+[02月09日18:09:59.490]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.dll.ab
+[02月09日18:09:59.490]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.dll.ab
+[02月09日18:09:59.490]TryLoadAssetBundleOver
+[02月09日18:09:59.522]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/flymodel.dll.ab
+[02月09日18:09:59.523]WWWEnd-[flymodel.dll.ab] cost 0.03313255 loadAsync:True
+[02月09日18:09:59.536]MemoryLoad[flymodel.dll.ab] cost 0
+[02月09日18:09:59.542]LoadModule With pdb done
+[02月09日18:09:59.544]GameMainStart
+[02月09日18:09:59.628]addLoadSet foodsconfig FoodsConfig
+[02月09日18:09:59.629]addLoadSet catsconfig CatsConfig
+[02月09日18:09:59.629]addLoadSet roomsconfig RoomsConfig
+[02月09日18:09:59.633]addLoadSet achievementconfig AchievementConfig
+[02月09日18:10:01.067]addLoadSet loginpanel LoginPanel
+[02月09日18:10:01.074]TryLoadAssetBundleStart
+[02月09日18:10:01.074]TryLoadAssetBundle foodsconfig.ab
+[02月09日18:10:01.074]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/foodsconfig.ab
+[02月09日18:10:01.074]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/foodsconfig.ab
+[02月09日18:10:01.074]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/foodsconfig.ab
+[02月09日18:10:01.074]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/foodsconfig.ab
+[02月09日18:10:01.074]TryLoadAssetBundleOver
+[02月09日18:10:01.104]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/foodsconfig.ab
+[02月09日18:10:01.104]WWWEnd-[foodsconfig.ab] cost 0.03313494 loadAsync:True
+[02月09日18:10:01.109]addLoadSet itemsconfig ItemsConfig
+[02月09日18:10:01.109]MemoryLoad[FoodsConfig] cost 0
+[02月09日18:10:01.120]TryLoadAssetBundleStart
+[02月09日18:10:01.120]TryLoadAssetBundle catsconfig.ab
+[02月09日18:10:01.121]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/catsconfig.ab
+[02月09日18:10:01.121]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/catsconfig.ab
+[02月09日18:10:01.121]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/catsconfig.ab
+[02月09日18:10:01.121]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/catsconfig.ab
+[02月09日18:10:01.121]TryLoadAssetBundleOver
+[02月09日18:10:01.137]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/catsconfig.ab
+[02月09日18:10:01.137]WWWEnd-[catsconfig.ab] cost 0.01656628 loadAsync:True
+[02月09日18:10:01.145]MemoryLoad[CatsConfig] cost 0
+[02月09日18:10:01.153]TryLoadAssetBundleStart
+[02月09日18:10:01.154]TryLoadAssetBundle roomsconfig.ab
+[02月09日18:10:01.154]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/roomsconfig.ab
+[02月09日18:10:01.154]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/roomsconfig.ab
+[02月09日18:10:01.154]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/roomsconfig.ab
+[02月09日18:10:01.154]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/roomsconfig.ab
+[02月09日18:10:01.154]TryLoadAssetBundleOver
+[02月09日18:10:01.187]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/roomsconfig.ab
+[02月09日18:10:01.187]WWWEnd-[roomsconfig.ab] cost 0.03338766 loadAsync:True
+[02月09日18:10:01.188]MemoryLoad[RoomsConfig] cost 0
+[02月09日18:10:01.203]TryLoadAssetBundleStart
+[02月09日18:10:01.203]TryLoadAssetBundle achievementconfig.ab
+[02月09日18:10:01.203]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/achievementconfig.ab
+[02月09日18:10:01.204]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/achievementconfig.ab
+[02月09日18:10:01.204]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/achievementconfig.ab
+[02月09日18:10:01.204]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/achievementconfig.ab
+[02月09日18:10:01.204]TryLoadAssetBundleOver
+[02月09日18:10:01.236]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/achievementconfig.ab
+[02月09日18:10:01.237]WWWEnd-[achievementconfig.ab] cost 0.03303957 loadAsync:True
+[02月09日18:10:01.241]MemoryLoad[AchievementConfig] cost 0
+[02月09日18:10:01.253]TryLoadAssetBundleStart
+[02月09日18:10:01.253]TryLoadAssetBundle loginpanel.ab
+[02月09日18:10:01.253]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loginpanel.ab
+[02月09日18:10:01.253]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loginpanel.ab
+[02月09日18:10:01.253]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loginpanel.ab
+[02月09日18:10:01.253]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loginpanel.ab
+[02月09日18:10:01.253]TryLoadAssetBundleOver
+[02月09日18:10:01.535]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loginpanel.ab
+[02月09日18:10:01.535]WWWEnd-[loginpanel.ab] cost 0.2818446 loadAsync:True
+[02月09日18:10:01.650]MemoryLoad[LoginPanel] cost 0
+[02月09日18:10:01.670]TryLoadAssetBundleStart
+[02月09日18:10:01.670]TryLoadAssetBundle itemsconfig.ab
+[02月09日18:10:01.670]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itemsconfig.ab
+[02月09日18:10:01.670]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itemsconfig.ab
+[02月09日18:10:01.670]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itemsconfig.ab
+[02月09日18:10:01.670]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itemsconfig.ab
+[02月09日18:10:01.671]TryLoadAssetBundleOver
+[02月09日18:10:01.702]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itemsconfig.ab
+[02月09日18:10:01.702]WWWEnd-[itemsconfig.ab] cost 0.03313446 loadAsync:True
+[02月09日18:10:01.703]addLoadSet buycurrencysconfig BuyCurrencysConfig
+[02月09日18:10:01.703]MemoryLoad[ItemsConfig] cost 0
+[02月09日18:10:01.719]TryLoadAssetBundleStart
+[02月09日18:10:01.719]TryLoadAssetBundle buycurrencysconfig.ab
+[02月09日18:10:01.719]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/buycurrencysconfig.ab
+[02月09日18:10:01.719]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/buycurrencysconfig.ab
+[02月09日18:10:01.719]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/buycurrencysconfig.ab
+[02月09日18:10:01.719]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/buycurrencysconfig.ab
+[02月09日18:10:01.719]TryLoadAssetBundleOver
+[02月09日18:10:01.752]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/buycurrencysconfig.ab
+[02月09日18:10:01.752]WWWEnd-[buycurrencysconfig.ab] cost 0.03313351 loadAsync:True
+[02月09日18:10:01.753]addLoadSet furnisconfig FurnisConfig
+[02月09日18:10:01.753]MemoryLoad[BuyCurrencysConfig] cost 0
+[02月09日18:10:01.768]TryLoadAssetBundleStart
+[02月09日18:10:01.768]TryLoadAssetBundle furnisconfig.ab
+[02月09日18:10:01.768]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/furnisconfig.ab
+[02月09日18:10:01.768]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/furnisconfig.ab
+[02月09日18:10:01.768]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/furnisconfig.ab
+[02月09日18:10:01.769]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/furnisconfig.ab
+[02月09日18:10:01.769]TryLoadAssetBundleOver
+[02月09日18:10:01.785]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/furnisconfig.ab
+[02月09日18:10:01.786]WWWEnd-[furnisconfig.ab] cost 0.01656675 loadAsync:True
+[02月09日18:10:01.790]MemoryLoad[FurnisConfig] cost 0
+[02月09日18:10:05.110]addLoadSet loadingpanel LoadingPanel
+[02月09日18:10:05.113]addLoadSet furnisconfig FurnisConfig
+[02月09日18:10:05.122]addLoadSet guide_1config Guide_1config
+[02月09日18:10:05.122]addLoadSet guidepanel GuidePanel
+[02月09日18:10:05.128]addLoadSet infobar InfoBar
+[02月09日18:10:05.129]addLoadSet bottombar BottomBar
+[02月09日18:10:05.180]TryLoadAssetBundleStart
+[02月09日18:10:05.180]TryLoadAssetBundle loadingpanel.ab
+[02月09日18:10:05.180]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loadingpanel.ab
+[02月09日18:10:05.181]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loadingpanel.ab
+[02月09日18:10:05.181]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loadingpanel.ab
+[02月09日18:10:05.181]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loadingpanel.ab
+[02月09日18:10:05.181]TryLoadAssetBundleOver
+[02月09日18:10:05.212]addLoadSet scene001 Scene001
+[02月09日18:10:05.232]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/loadingpanel.ab
+[02月09日18:10:05.233]WWWEnd-[loadingpanel.ab] cost 0.1409159 loadAsync:True
+[02月09日18:10:05.268]MemoryLoad[LoadingPanel] cost 0
+[02月09日18:10:05.272]TryLoadAssetBundleStart
+[02月09日18:10:05.272]TryLoadAssetBundle furnisconfig.ab
+[02月09日18:10:05.272]WWWEnd-[furnisconfig.ab] cost 0 loadAsync:False
+[02月09日18:10:05.276]MemoryLoad[FurnisConfig] cost 0
+[02月09日18:10:05.277]TryLoadAssetBundleOver
+[02月09日18:10:05.288]TryLoadAssetBundleStart
+[02月09日18:10:05.288]TryLoadAssetBundle guide_1config.ab
+[02月09日18:10:05.288]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guide_1config.ab
+[02月09日18:10:05.289]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guide_1config.ab
+[02月09日18:10:05.289]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guide_1config.ab
+[02月09日18:10:05.289]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guide_1config.ab
+[02月09日18:10:05.289]TryLoadAssetBundleOver
+[02月09日18:10:05.305]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guide_1config.ab
+[02月09日18:10:05.305]WWWEnd-[guide_1config.ab] cost 0.01656532 loadAsync:True
+[02月09日18:10:05.307]MemoryLoad[Guide_1config] cost 0
+[02月09日18:10:05.321]TryLoadAssetBundleStart
+[02月09日18:10:05.321]TryLoadAssetBundle guidepanel.ab
+[02月09日18:10:05.322]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidepanel.ab
+[02月09日18:10:05.322]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidepanel.ab
+[02月09日18:10:05.322]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidepanel.ab
+[02月09日18:10:05.322]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidepanel.ab
+[02月09日18:10:05.322]TryLoadAssetBundleOver
+[02月09日18:10:05.454]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidepanel.ab
+[02月09日18:10:05.455]WWWEnd-[guidepanel.ab] cost 0.1326008 loadAsync:True
+[02月09日18:10:05.616]MemoryLoad[GuidePanel] cost 0
+[02月09日18:10:05.620]TryLoadAssetBundleStart
+[02月09日18:10:05.621]TryLoadAssetBundle infobar.ab
+[02月09日18:10:05.621]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/infobar.ab
+[02月09日18:10:05.621]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/infobar.ab
+[02月09日18:10:05.621]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/infobar.ab
+[02月09日18:10:05.621]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/infobar.ab
+[02月09日18:10:05.621]TryLoadAssetBundleOver
+[02月09日18:10:05.654]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/infobar.ab
+[02月09日18:10:05.655]WWWEnd-[infobar.ab] cost 0.03313637 loadAsync:True
+[02月09日18:10:05.677]addLoadSet userface user101
+[02月09日18:10:05.692]MemoryLoad[InfoBar] cost 0
+[02月09日18:10:05.695]TryLoadAssetBundleStart
+[02月09日18:10:05.696]TryLoadAssetBundle bottombar.ab
+[02月09日18:10:05.696]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bottombar.ab
+[02月09日18:10:05.696]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bottombar.ab
+[02月09日18:10:05.696]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bottombar.ab
+[02月09日18:10:05.696]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bottombar.ab
+[02月09日18:10:05.696]TryLoadAssetBundleOver
+[02月09日18:10:05.745]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bottombar.ab
+[02月09日18:10:05.746]WWWEnd-[bottombar.ab] cost 0.04970169 loadAsync:True
+[02月09日18:10:05.778]MemoryLoad[BottomBar] cost 0
+[02月09日18:10:05.785]TryLoadAssetBundleStart
+[02月09日18:10:05.785]TryLoadAssetBundle scene001.ab
+[02月09日18:10:05.785]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/scene001.ab
+[02月09日18:10:05.785]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/scene001.ab
+[02月09日18:10:05.785]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/scene001.ab
+[02月09日18:10:05.785]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/scene001.ab
+[02月09日18:10:05.786]TryLoadAssetBundleOver
+[02月09日18:10:06.133]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/scene001.ab
+[02月09日18:10:06.134]WWWEnd-[scene001.ab] cost 0.3479013 loadAsync:True
+[02月09日18:10:06.215]addLoadSet bg bg
+[02月09日18:10:06.215]MemoryLoad[Scene001] cost 0
+[02月09日18:10:06.218]TryLoadAssetBundleStart
+[02月09日18:10:06.218]TryLoadAssetBundle userface.ab
+[02月09日18:10:06.219]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/userface.ab
+[02月09日18:10:06.219]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/userface.ab
+[02月09日18:10:06.219]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/userface.ab
+[02月09日18:10:06.219]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/userface.ab
+[02月09日18:10:06.219]TryLoadAssetBundleOver
+[02月09日18:10:06.268]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/userface.ab
+[02月09日18:10:06.269]WWWEnd-[userface.ab] cost 0.04970169 loadAsync:True
+[02月09日18:10:06.270]MemoryLoad[user101] cost 0
+[02月09日18:10:06.285]TryLoadAssetBundleStart
+[02月09日18:10:06.285]TryLoadAssetBundle bg.ab
+[02月09日18:10:06.285]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bg.ab
+[02月09日18:10:06.285]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bg.ab
+[02月09日18:10:06.285]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bg.ab
+[02月09日18:10:06.285]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bg.ab
+[02月09日18:10:06.285]TryLoadAssetBundleOver
+[02月09日18:10:06.401]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bg.ab
+[02月09日18:10:06.402]WWWEnd-[bg.ab] cost 0.1159706 loadAsync:True
+[02月09日18:10:06.717]addLoadSet food2001 Food2001
+[02月09日18:10:06.717]addLoadSet food2001 Food2001
+[02月09日18:10:06.725]addLoadSet shoppanel ShopPanel
+[02月09日18:10:06.725]addLoadSet systemmunebar SystemMuneBar
+[02月09日18:10:06.725]MemoryLoad[bg] cost 0
+[02月09日18:10:06.730]TryLoadAssetBundleStart
+[02月09日18:10:06.730]TryLoadAssetBundle food2001.ab
+[02月09日18:10:06.730]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/food2001.ab
+[02月09日18:10:06.731]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/food2001.ab
+[02月09日18:10:06.731]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/food2001.ab
+[02月09日18:10:06.731]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/food2001.ab
+[02月09日18:10:06.731]TryLoadAssetBundleOver
+[02月09日18:10:06.763]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/food2001.ab
+[02月09日18:10:06.764]WWWEnd-[food2001.ab] cost 0.03313828 loadAsync:True
+[02月09日18:10:06.768]MemoryLoad[Food2001] cost 0
+[02月09日18:10:06.780]TryLoadAssetBundleStart
+[02月09日18:10:06.780]TryLoadAssetBundle food2001.ab
+[02月09日18:10:06.780]WWWEnd-[food2001.ab] cost 0 loadAsync:False
+[02月09日18:10:06.781]MemoryLoad[Food2001] cost 0
+[02月09日18:10:06.781]TryLoadAssetBundleOver
+[02月09日18:10:06.796]TryLoadAssetBundleStart
+[02月09日18:10:06.796]TryLoadAssetBundle shoppanel.ab
+[02月09日18:10:06.796]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/shoppanel.ab
+[02月09日18:10:06.796]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/shoppanel.ab
+[02月09日18:10:06.796]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/shoppanel.ab
+[02月09日18:10:06.796]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/shoppanel.ab
+[02月09日18:10:06.796]TryLoadAssetBundleOver
+[02月09日18:10:06.912]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/shoppanel.ab
+[02月09日18:10:06.913]WWWEnd-[shoppanel.ab] cost 0.1159668 loadAsync:True
+[02月09日18:10:06.996]addLoadSet bgm005 bgm005
+[02月09日18:10:07.000]addLoadSet itempics Food2002
+[02月09日18:10:07.002]addLoadSet itempics item20000
+[02月09日18:10:07.003]addLoadSet itempics Toy3009
+[02月09日18:10:07.004]addLoadSet itempics Toy3014
+[02月09日18:10:07.005]addLoadSet itempics Toy3018
+[02月09日18:10:07.006]addLoadSet itempics Toy3022
+[02月09日18:10:07.007]MemoryLoad[ShopPanel] cost 0
+[02月09日18:10:07.088]TryLoadAssetBundleStart
+[02月09日18:10:07.088]TryLoadAssetBundle systemmunebar.ab
+[02月09日18:10:07.088]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/systemmunebar.ab
+[02月09日18:10:07.088]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/systemmunebar.ab
+[02月09日18:10:07.088]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/systemmunebar.ab
+[02月09日18:10:07.088]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/systemmunebar.ab
+[02月09日18:10:07.088]TryLoadAssetBundleOver
+[02月09日18:10:07.138]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/systemmunebar.ab
+[02月09日18:10:07.138]WWWEnd-[systemmunebar.ab] cost 0.05026627 loadAsync:True
+[02月09日18:10:07.162]MemoryLoad[SystemMuneBar] cost 0
+[02月09日18:10:07.165]TryLoadAssetBundleStart
+[02月09日18:10:07.165]TryLoadAssetBundle bgm005.ab
+[02月09日18:10:07.165]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm005.ab
+[02月09日18:10:07.166]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm005.ab
+[02月09日18:10:07.166]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm005.ab
+[02月09日18:10:07.166]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm005.ab
+[02月09日18:10:07.166]TryLoadAssetBundleOver
+[02月09日18:10:07.200]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm005.ab
+[02月09日18:10:07.200]WWWEnd-[bgm005.ab] cost 0.03313446 loadAsync:True
+[02月09日18:10:07.202]MemoryLoad[bgm005] cost 0
+[02月09日18:10:07.215]TryLoadAssetBundleStart
+[02月09日18:10:07.215]TryLoadAssetBundle itempics.ab
+[02月09日18:10:07.215]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itempics.ab
+[02月09日18:10:07.216]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itempics.ab
+[02月09日18:10:07.216]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itempics.ab
+[02月09日18:10:07.216]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itempics.ab
+[02月09日18:10:07.216]TryLoadAssetBundleOver
+[02月09日18:10:07.447]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/itempics.ab
+[02月09日18:10:07.448]WWWEnd-[itempics.ab] cost 0.2319422 loadAsync:True
+[02月09日18:10:07.449]MemoryLoad[Food2002] cost 0
+[02月09日18:10:07.464]TryLoadAssetBundleStart
+[02月09日18:10:07.464]TryLoadAssetBundle itempics.ab
+[02月09日18:10:07.464]WWWEnd-[itempics.ab] cost 0 loadAsync:False
+[02月09日18:10:07.464]MemoryLoad[item20000] cost 0
+[02月09日18:10:07.464]TryLoadAssetBundleOver
+[02月09日18:10:07.480]TryLoadAssetBundleStart
+[02月09日18:10:07.480]TryLoadAssetBundle itempics.ab
+[02月09日18:10:07.480]WWWEnd-[itempics.ab] cost 0 loadAsync:False
+[02月09日18:10:07.481]MemoryLoad[Toy3009] cost 0
+[02月09日18:10:07.481]TryLoadAssetBundleOver
+[02月09日18:10:07.497]TryLoadAssetBundleStart
+[02月09日18:10:07.497]TryLoadAssetBundle itempics.ab
+[02月09日18:10:07.497]WWWEnd-[itempics.ab] cost 0 loadAsync:False
+[02月09日18:10:07.498]MemoryLoad[Toy3014] cost 0
+[02月09日18:10:07.498]TryLoadAssetBundleOver
+[02月09日18:10:07.513]TryLoadAssetBundleStart
+[02月09日18:10:07.513]TryLoadAssetBundle itempics.ab
+[02月09日18:10:07.513]WWWEnd-[itempics.ab] cost 0 loadAsync:False
+[02月09日18:10:07.514]MemoryLoad[Toy3018] cost 0
+[02月09日18:10:07.514]TryLoadAssetBundleOver
+[02月09日18:10:07.530]TryLoadAssetBundleStart
+[02月09日18:10:07.530]TryLoadAssetBundle itempics.ab
+[02月09日18:10:07.530]WWWEnd-[itempics.ab] cost 0 loadAsync:False
+[02月09日18:10:07.530]MemoryLoad[Toy3022] cost 0
+[02月09日18:10:07.530]TryLoadAssetBundleOver
+[02月09日18:10:13.703]addLoadSet bgm001 bgm001
+[02月09日18:10:13.703]TryLoadAssetBundleStart
+[02月09日18:10:13.703]TryLoadAssetBundle bgm001.ab
+[02月09日18:10:13.703]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm001.ab
+[02月09日18:10:13.703]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm001.ab
+[02月09日18:10:13.703]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm001.ab
+[02月09日18:10:13.703]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm001.ab
+[02月09日18:10:13.703]TryLoadAssetBundleOver
+[02月09日18:10:13.744]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm001.ab
+[02月09日18:10:13.744]WWWEnd-[bgm001.ab] cost 0.04970169 loadAsync:True
+[02月09日18:10:13.760]MemoryLoad[bgm001] cost 0
+[02月09日18:10:14.400]addLoadSet bgm001 bgm001
+[02月09日18:10:14.400]TryLoadAssetBundleStart
+[02月09日18:10:14.400]TryLoadAssetBundle bgm001.ab
+[02月09日18:10:14.400]WWWEnd-[bgm001.ab] cost 0 loadAsync:False
+[02月09日18:10:14.409]addLoadSet guidemask GuideMask
+[02月09日18:10:14.427]MemoryLoad[bgm001] cost 0
+[02月09日18:10:14.427]TryLoadAssetBundleOver
+[02月09日18:10:14.429]TryLoadAssetBundleStart
+[02月09日18:10:14.429]TryLoadAssetBundle guidemask.ab
+[02月09日18:10:14.429]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidemask.ab
+[02月09日18:10:14.429]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidemask.ab
+[02月09日18:10:14.429]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidemask.ab
+[02月09日18:10:14.429]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidemask.ab
+[02月09日18:10:14.429]TryLoadAssetBundleOver
+[02月09日18:10:14.462]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/guidemask.ab
+[02月09日18:10:14.463]WWWEnd-[guidemask.ab] cost 0.03313446 loadAsync:True
+[02月09日18:10:14.509]MemoryLoad[GuideMask] cost 0
+[02月09日18:10:15.408]addLoadSet bgm014 bgm014
+[02月09日18:10:15.408]addLoadSet bagpanel BagPanel
+[02月09日18:10:15.409]TryLoadAssetBundleStart
+[02月09日18:10:15.409]TryLoadAssetBundle bgm014.ab
+[02月09日18:10:15.409]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm014.ab
+[02月09日18:10:15.409]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm014.ab
+[02月09日18:10:15.409]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm014.ab
+[02月09日18:10:15.409]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm014.ab
+[02月09日18:10:15.409]TryLoadAssetBundleOver
+[02月09日18:10:15.434]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm014.ab
+[02月09日18:10:15.434]WWWEnd-[bgm014.ab] cost 0.03312874 loadAsync:True
+[02月09日18:10:15.437]MemoryLoad[bgm014] cost 0
+[02月09日18:10:15.450]TryLoadAssetBundleStart
+[02月09日18:10:15.450]TryLoadAssetBundle bagpanel.ab
+[02月09日18:10:15.450]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bagpanel.ab
+[02月09日18:10:15.451]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bagpanel.ab
+[02月09日18:10:15.451]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bagpanel.ab
+[02月09日18:10:15.451]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bagpanel.ab
+[02月09日18:10:15.451]TryLoadAssetBundleOver
+[02月09日18:10:15.573]addLoadSet bgm014 bgm014
+[02月09日18:10:15.573]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bagpanel.ab
+[02月09日18:10:15.574]WWWEnd-[bagpanel.ab] cost 0.115963 loadAsync:True
+[02月09日18:10:15.627]addLoadSet bgm005 bgm005
+[02月09日18:10:15.631]addLoadSet itempics Toy3002
+[02月09日18:10:15.639]MemoryLoad[BagPanel] cost 0
+[02月09日18:10:15.646]TryLoadAssetBundleStart
+[02月09日18:10:15.646]TryLoadAssetBundle bgm014.ab
+[02月09日18:10:15.646]WWWEnd-[bgm014.ab] cost 0 loadAsync:False
+[02月09日18:10:15.646]MemoryLoad[bgm014] cost 0
+[02月09日18:10:15.647]TryLoadAssetBundleOver
+[02月09日18:10:15.753]TryLoadAssetBundleStart
+[02月09日18:10:15.753]TryLoadAssetBundle bgm005.ab
+[02月09日18:10:15.753]WWWEnd-[bgm005.ab] cost 0 loadAsync:False
+[02月09日18:10:15.753]MemoryLoad[bgm005] cost 0
+[02月09日18:10:15.753]TryLoadAssetBundleOver
+[02月09日18:10:15.777]TryLoadAssetBundleStart
+[02月09日18:10:15.777]TryLoadAssetBundle itempics.ab
+[02月09日18:10:15.777]WWWEnd-[itempics.ab] cost 0 loadAsync:False
+[02月09日18:10:15.778]MemoryLoad[Toy3002] cost 0
+[02月09日18:10:15.778]TryLoadAssetBundleOver
+[02月09日18:10:17.076]addLoadSet bgm001 bgm001
+[02月09日18:10:17.076]TryLoadAssetBundleStart
+[02月09日18:10:17.076]TryLoadAssetBundle bgm001.ab
+[02月09日18:10:17.077]WWWEnd-[bgm001.ab] cost 0 loadAsync:False
+[02月09日18:10:17.129]MemoryLoad[bgm001] cost 0
+[02月09日18:10:17.129]TryLoadAssetBundleOver
+[02月09日18:10:18.482]addLoadSet bgm004 bgm004
+[02月09日18:10:18.568]TryLoadAssetBundleStart
+[02月09日18:10:18.568]TryLoadAssetBundle bgm004.ab
+[02月09日18:10:18.568]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm004.ab
+[02月09日18:10:18.568]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm004.ab
+[02月09日18:10:18.568]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm004.ab
+[02月09日18:10:18.568]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm004.ab
+[02月09日18:10:18.568]TryLoadAssetBundleOver
+[02月09日18:10:18.588]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm004.ab
+[02月09日18:10:18.589]WWWEnd-[bgm004.ab] cost 0.1129265 loadAsync:True
+[02月09日18:10:18.590]MemoryLoad[bgm004] cost 0
+[02月09日18:10:18.645]addLoadSet bgm006 bgm006
+[02月09日18:10:18.646]addLoadSet proppopup PropPopup
+[02月09日18:10:18.646]TryLoadAssetBundleStart
+[02月09日18:10:18.646]TryLoadAssetBundle bgm006.ab
+[02月09日18:10:18.646]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm006.ab
+[02月09日18:10:18.646]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm006.ab
+[02月09日18:10:18.646]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm006.ab
+[02月09日18:10:18.646]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm006.ab
+[02月09日18:10:18.646]TryLoadAssetBundleOver
+[02月09日18:10:18.672]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/bgm006.ab
+[02月09日18:10:18.672]WWWEnd-[bgm006.ab] cost 0.03341675 loadAsync:True
+[02月09日18:10:18.673]MemoryLoad[bgm006] cost 0
+[02月09日18:10:18.688]TryLoadAssetBundleStart
+[02月09日18:10:18.688]TryLoadAssetBundle proppopup.ab
+[02月09日18:10:18.688]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/proppopup.ab
+[02月09日18:10:18.688]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/proppopup.ab
+[02月09日18:10:18.688]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/proppopup.ab
+[02月09日18:10:18.688]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/proppopup.ab
+[02月09日18:10:18.688]TryLoadAssetBundleOver
+[02月09日18:10:18.721]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/proppopup.ab
+[02月09日18:10:18.722]WWWEnd-[proppopup.ab] cost 0.0332756 loadAsync:True
+[02月09日18:10:18.738]addLoadSet itempics Toy3002
+[02月09日18:10:18.739]addLoadSet iconpics SilverFish
+[02月09日18:10:18.739]MemoryLoad[PropPopup] cost 0
+[02月09日18:10:18.744]TryLoadAssetBundleStart
+[02月09日18:10:18.744]TryLoadAssetBundle itempics.ab
+[02月09日18:10:18.744]WWWEnd-[itempics.ab] cost 0 loadAsync:False
+[02月09日18:10:18.744]MemoryLoad[Toy3002] cost 0
+[02月09日18:10:18.744]TryLoadAssetBundleOver
+[02月09日18:10:18.760]TryLoadAssetBundleStart
+[02月09日18:10:18.760]TryLoadAssetBundle iconpics.ab
+[02月09日18:10:18.760]CachePath D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/iconpics.ab
+[02月09日18:10:18.761]WWWStart--file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/iconpics.ab
+[02月09日18:10:18.761]Download--begin file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/iconpics.ab
+[02月09日18:10:18.761]Download--end file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/iconpics.ab
+[02月09日18:10:18.761]TryLoadAssetBundleOver
+[02月09日18:10:18.827]Download--over file://D:/SVN/Cat/client/MacTrunk/CatMainProject/Assets/StreamingAssets/iconpics.ab
+[02月09日18:10:18.827]WWWEnd-[iconpics.ab] cost 0.06626701 loadAsync:True
+[02月09日18:10:18.828]MemoryLoad[SilverFish] cost 0

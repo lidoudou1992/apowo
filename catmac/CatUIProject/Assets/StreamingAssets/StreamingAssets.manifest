@@ -1,0 +1,340 @@
+ManifestFileVersion: 0
+CRC: 160378294
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: alertpanel.ab
+      Dependencies: {}
+    Info_1:
+      Name: awardpanel.ab
+      Dependencies: {}
+    Info_2:
+      Name: bagpanel.ab
+      Dependencies: {}
+    Info_3:
+      Name: bg.ab
+      Dependencies: {}
+    Info_4:
+      Name: bgm001.ab
+      Dependencies: {}
+    Info_5:
+      Name: bgm002.ab
+      Dependencies: {}
+    Info_6:
+      Name: bgm004.ab
+      Dependencies: {}
+    Info_7:
+      Name: bgm005.ab
+      Dependencies: {}
+    Info_8:
+      Name: bgm006.ab
+      Dependencies: {}
+    Info_9:
+      Name: bgm007.ab
+      Dependencies: {}
+    Info_10:
+      Name: bgm008.ab
+      Dependencies: {}
+    Info_11:
+      Name: bgm009.ab
+      Dependencies: {}
+    Info_12:
+      Name: bgm010.ab
+      Dependencies: {}
+    Info_13:
+      Name: bgm011.ab
+      Dependencies: {}
+    Info_14:
+      Name: bgm012.ab
+      Dependencies: {}
+    Info_15:
+      Name: bgm013.ab
+      Dependencies: {}
+    Info_16:
+      Name: bgm014.ab
+      Dependencies: {}
+    Info_17:
+      Name: bgm015.ab
+      Dependencies: {}
+    Info_18:
+      Name: bgm016.ab
+      Dependencies: {}
+    Info_19:
+      Name: bottombar.ab
+      Dependencies: {}
+    Info_20:
+      Name: button.ab
+      Dependencies: {}
+    Info_21:
+      Name: cat001_bgm.ab
+      Dependencies: {}
+    Info_22:
+      Name: cat002_bgm.ab
+      Dependencies: {}
+    Info_23:
+      Name: cat003_bgm.ab
+      Dependencies: {}
+    Info_24:
+      Name: cat004_bgm.ab
+      Dependencies: {}
+    Info_25:
+      Name: cat005_bgm.ab
+      Dependencies: {}
+    Info_26:
+      Name: cat006_bgm.ab
+      Dependencies: {}
+    Info_27:
+      Name: cat007_bgm.ab
+      Dependencies: {}
+    Info_28:
+      Name: cat008_bgm.ab
+      Dependencies: {}
+    Info_29:
+      Name: cat009_bgm.ab
+      Dependencies: {}
+    Info_30:
+      Name: cat010_bgm.ab
+      Dependencies: {}
+    Info_31:
+      Name: cat011_bgm.ab
+      Dependencies: {}
+    Info_32:
+      Name: cat012_bgm.ab
+      Dependencies: {}
+    Info_33:
+      Name: cat013_bgm.ab
+      Dependencies: {}
+    Info_34:
+      Name: cat014_bgm.ab
+      Dependencies: {}
+    Info_35:
+      Name: cat015_bgm.ab
+      Dependencies: {}
+    Info_36:
+      Name: cat016_bgm.ab
+      Dependencies: {}
+    Info_37:
+      Name: cat017_bgm.ab
+      Dependencies: {}
+    Info_38:
+      Name: cat018_bgm.ab
+      Dependencies: {}
+    Info_39:
+      Name: cat019_bgm.ab
+      Dependencies: {}
+    Info_40:
+      Name: cat020_bgm.ab
+      Dependencies: {}
+    Info_41:
+      Name: cat021_bgm.ab
+      Dependencies: {}
+    Info_42:
+      Name: cat022_bgm.ab
+      Dependencies: {}
+    Info_43:
+      Name: cat023_bgm.ab
+      Dependencies: {}
+    Info_44:
+      Name: cat024_bgm.ab
+      Dependencies: {}
+    Info_45:
+      Name: cat025_bgm.ab
+      Dependencies: {}
+    Info_46:
+      Name: cat501_bgm.ab
+      Dependencies: {}
+    Info_47:
+      Name: cat502_bgm.ab
+      Dependencies: {}
+    Info_48:
+      Name: cat503_bgm.ab
+      Dependencies: {}
+    Info_49:
+      Name: cat504_bgm.ab
+      Dependencies: {}
+    Info_50:
+      Name: cat505_bgm.ab
+      Dependencies: {}
+    Info_51:
+      Name: cat506_bgm.ab
+      Dependencies: {}
+    Info_52:
+      Name: cat507_bgm.ab
+      Dependencies: {}
+    Info_53:
+      Name: cat508_bgm.ab
+      Dependencies: {}
+    Info_54:
+      Name: cat509_bgm.ab
+      Dependencies: {}
+    Info_55:
+      Name: cat510_bgm.ab
+      Dependencies: {}
+    Info_56:
+      Name: cat511_bgm.ab
+      Dependencies: {}
+    Info_57:
+      Name: cat512_bgm.ab
+      Dependencies: {}
+    Info_58:
+      Name: cat513_bgm.ab
+      Dependencies: {}
+    Info_59:
+      Name: catbaby.ab
+      Dependencies: {}
+    Info_60:
+      Name: catbabybegin.ab
+      Dependencies: {}
+    Info_61:
+      Name: catbookpanel.ab
+      Dependencies: {}
+    Info_62:
+      Name: catgiftpopup.ab
+      Dependencies: {}
+    Info_63:
+      Name: catpopup.ab
+      Dependencies: {}
+    Info_64:
+      Name: cattreasurepanel.ab
+      Dependencies: {}
+    Info_65:
+      Name: createcharacterscenepanel.ab
+      Dependencies: {}
+    Info_66:
+      Name: createcharaterpanel.ab
+      Dependencies: {}
+    Info_67:
+      Name: directconnectpanel.ab
+      Dependencies: {}
+    Info_68:
+      Name: exchangepanel.ab
+      Dependencies: {}
+    Info_69:
+      Name: foodpopuppanel.ab
+      Dependencies: {}
+    Info_70:
+      Name: guidemask.ab
+      Dependencies: {}
+    Info_71:
+      Name: guidepanel.ab
+      Dependencies: {}
+    Info_72:
+      Name: handbookpanel.ab
+      Dependencies: {}
+    Info_73:
+      Name: headpanel.ab
+      Dependencies: {}
+    Info_74:
+      Name: headselectpanel.ab
+      Dependencies: {}
+    Info_75:
+      Name: infobar.ab
+      Dependencies: {}
+    Info_76:
+      Name: loadingpanel.ab
+      Dependencies: {}
+    Info_77:
+      Name: loginpanel.ab
+      Dependencies: {}
+    Info_78:
+      Name: lottery1.ab
+      Dependencies: {}
+    Info_79:
+      Name: lottery2.ab
+      Dependencies: {}
+    Info_80:
+      Name: mailcontentpanel.ab
+      Dependencies: {}
+    Info_81:
+      Name: money.ab
+      Dependencies: {}
+    Info_82:
+      Name: picturepreviewpanel.ab
+      Dependencies: {}
+    Info_83:
+      Name: picturesharepanel.ab
+      Dependencies: {}
+    Info_84:
+      Name: picturespanel.ab
+      Dependencies: {}
+    Info_85:
+      Name: proppopup.ab
+      Dependencies: {}
+    Info_86:
+      Name: qiandao.ab
+      Dependencies: {}
+    Info_87:
+      Name: rectmask.ab
+      Dependencies: {}
+    Info_88:
+      Name: scene001.ab
+      Dependencies: {}
+    Info_89:
+      Name: scene002.ab
+      Dependencies: {}
+    Info_90:
+      Name: scene003.ab
+      Dependencies: {}
+    Info_91:
+      Name: scene004.ab
+      Dependencies: {}
+    Info_92:
+      Name: scene005.ab
+      Dependencies: {}
+    Info_93:
+      Name: scene006.ab
+      Dependencies: {}
+    Info_94:
+      Name: scene007.ab
+      Dependencies: {}
+    Info_95:
+      Name: scenechangepanel.ab
+      Dependencies: {}
+    Info_96:
+      Name: scenephotopanel.ab
+      Dependencies: {}
+    Info_97:
+      Name: scenephotopreviewpanel.ab
+      Dependencies: {}
+    Info_98:
+      Name: settingpanel.ab
+      Dependencies: {}
+    Info_99:
+      Name: settingpanel_advice.ab
+      Dependencies: {}
+    Info_100:
+      Name: settingpanel_sys.ab
+      Dependencies: {}
+    Info_101:
+      Name: sharepanel.ab
+      Dependencies: {}
+    Info_102:
+      Name: shoppanel.ab
+      Dependencies: {}
+    Info_103:
+      Name: signinpanel.ab
+      Dependencies: {}
+    Info_104:
+      Name: systemmunebar.ab
+      Dependencies: {}
+    Info_105:
+      Name: tableviewpanel.ab
+      Dependencies: {}
+    Info_106:
+      Name: takepicturepanel.ab
+      Dependencies: {}
+    Info_107:
+      Name: talkingpanel.ab
+      Dependencies: {}
+    Info_108:
+      Name: taskpanel.ab
+      Dependencies: {}
+    Info_109:
+      Name: tipspanel.ab
+      Dependencies: {}
+    Info_110:
+      Name: treasurepanel.ab
+      Dependencies: {}
+    Info_111:
+      Name: tutorialpanel.ab
+      Dependencies: {}

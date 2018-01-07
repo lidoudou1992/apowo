@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3819696313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b36a0f409eac4ac4d5c160d8b34a0409
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Config/GuideConfig/Guide_1Config.json
+Dependencies: []

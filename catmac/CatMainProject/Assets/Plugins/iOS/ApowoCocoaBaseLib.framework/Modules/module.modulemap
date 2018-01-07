@@ -1,0 +1,6 @@
+framework module ApowoCocoaBaseLib {
+  umbrella header "ApowoCocoaBaseLib.h"
+
+  export *
+  module * { export * }
+}

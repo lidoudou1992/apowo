@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2860897140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43a7a94c7a9a800b8574894f4aa922f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sound/BGM006.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4048481440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd59cee14c1a4ed97de778d3a23665ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Config/ToyConfig/ToyRoot_Toy3506Config.json
+Dependencies: []

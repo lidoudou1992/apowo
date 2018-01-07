@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3534038387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81a57c5ef258d66b73f1e4cdeef35a15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 255fda5ab9c269f4a1fee736afc65fc4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Toy/ToyRoot_Toy3305.prefab
+Dependencies: []

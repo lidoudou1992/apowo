@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1267296781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ff867486e72df5365d9ddbc4075f442
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75fef1ac8ad32c63cf8878afc8e3eeff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/UI/TakePicturePanel.prefab
+Dependencies: []

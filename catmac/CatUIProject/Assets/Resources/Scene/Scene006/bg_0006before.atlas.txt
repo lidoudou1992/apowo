@@ -1,0 +1,41 @@
+
+bg_0006before.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qian_cao
+  rotate: false
+  xy: 1138, 336
+  size: 334, 171
+  orig: 334, 171
+  offset: 0, 0
+  index: -1
+qian_cye
+  rotate: false
+  xy: 2, 2
+  size: 170, 101
+  orig: 170, 101
+  offset: 0, 0
+  index: -1
+qian_hua
+  rotate: false
+  xy: 2, 298
+  size: 723, 209
+  orig: 723, 209
+  offset: 0, 0
+  index: -1
+qian_hua1
+  rotate: false
+  xy: 727, 265
+  size: 409, 242
+  orig: 409, 242
+  offset: 0, 0
+  index: -1
+qian_hua2
+  rotate: true
+  xy: 2, 105
+  size: 191, 500
+  orig: 191, 500
+  offset: 0, 0
+  index: -1

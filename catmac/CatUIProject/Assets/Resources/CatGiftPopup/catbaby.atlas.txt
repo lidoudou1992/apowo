@@ -1,0 +1,55 @@
+
+catbaby.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baby001
+  rotate: false
+  xy: 185, 207
+  size: 176, 180
+  orig: 200, 200
+  offset: 24, 0
+  index: -1
+baby002
+  rotate: false
+  xy: 1, 193
+  size: 183, 194
+  orig: 200, 200
+  offset: 3, 0
+  index: -1
+baby003
+  rotate: false
+  xy: 185, 43
+  size: 180, 163
+  orig: 200, 200
+  offset: 0, 1
+  index: -1
+baby004
+  rotate: true
+  xy: 429, 347
+  size: 137, 31
+  orig: 137, 31
+  offset: 0, 0
+  index: -1
+baby006
+  rotate: false
+  xy: 1, 1
+  size: 178, 191
+  orig: 178, 191
+  offset: 0, 0
+  index: -1
+baby007
+  rotate: true
+  xy: 362, 216
+  size: 268, 66
+  orig: 268, 66
+  offset: 0, 0
+  index: -1
+baby008
+  rotate: false
+  xy: 1, 388
+  size: 287, 96
+  orig: 287, 96
+  offset: 0, 0
+  index: -1

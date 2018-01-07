@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 52141566
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 065d5e867a94b1468fe5b1ac3f1e9dbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sound/Cat.mp3
+Dependencies: []

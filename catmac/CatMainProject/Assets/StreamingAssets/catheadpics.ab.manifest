@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 2729823635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c227bcc617dfcf8d08a13dc09db63d2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pic/Cat/cat502.png
+- Assets/Pic/Cat/cat003.png
+- Assets/Pic/Cat/cat010.png
+- Assets/Pic/Cat/cat504.png
+- Assets/Pic/Cat/cat018.png
+- Assets/Pic/Cat/cat509.png
+- Assets/Pic/Cat/cat016.png
+- Assets/Pic/Cat/cat508.png
+- Assets/Pic/Cat/cat011.png
+- Assets/Pic/Cat/cat007.png
+- Assets/Pic/Cat/cat015.png
+- Assets/Pic/Cat/cat005.png
+- Assets/Pic/Cat/cat517.png
+- Assets/Pic/Cat/cat513.png
+- Assets/Pic/Cat/cat009.png
+- Assets/Pic/Cat/cat510.png
+- Assets/Pic/Cat/cat004.png
+- Assets/Pic/Cat/cat012.png
+- Assets/Pic/Cat/cat023.png
+- Assets/Pic/Cat/cat001.png
+- Assets/Pic/Cat/cat021.png
+- Assets/Pic/Cat/cat519.png
+- Assets/Pic/Cat/cat503.png
+- Assets/Pic/Cat/cat512.png
+- Assets/Pic/Cat/cat024.png
+- Assets/Pic/Cat/cat013.png
+- Assets/Pic/Cat/cat020.png
+- Assets/Pic/Cat/cat014.png
+- Assets/Pic/Cat/cat506.png
+- Assets/Pic/Cat/cat008.png
+- Assets/Pic/Cat/cat006.png
+- Assets/Pic/Cat/cat507.png
+- Assets/Pic/Cat/cat002.png
+- Assets/Pic/Cat/cat505.png
+- Assets/Pic/Cat/cat025.png
+- Assets/Pic/Cat/cat022.png
+- Assets/Pic/Cat/cat501.png
+- Assets/Pic/Cat/cat516.png
+- Assets/Pic/Cat/cat019.png
+- Assets/Pic/Cat/cat017.png
+Dependencies: []

@@ -1,0 +1,763 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GSDKUnityLib</name>
+    </assembly>
+    <members>
+        <member name="P:GSDKUnityLib.Account.AccountInfo.UID">
+            <summary>
+            平台用户ID
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.AccountInfo.Username">
+            <summary>
+            平台用户名
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.AccountInfo.Password">
+            <summary>
+            密码/平台第三方验证Token
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.AccountInfo.CharacterID">
+            <summary>
+            游戏用户ID
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.AccountInfo.ServerID">
+            <summary>
+            服务器ID
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.AccountInfo.ExtraJson">
+            <summary>
+            自定义数据
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.AccountInfo.LoggedIn">
+            <summary>
+            预留 是否已登录
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.AccountInfo.Binded">
+            <summary>
+            预留 是否已绑定
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Account.AccountInfo.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Account.AccountInfo.FromJsonStr(System.String)">
+            <summary>
+            用一个json字符串构造
+            </summary>
+            <param name="jsonStr"></param>
+        </member>
+        <member name="T:GSDKUnityLib.Account.Login.ELoginResultStatus">
+            <summary>
+            登录结果状态
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.Succeed">
+            <summary>
+            登陆成功
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.UsernameFormatError">
+            <summary>
+            用户名格式错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.UsernameNotExist">
+            <summary>
+            用户不存在
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.PasswordFormatError">
+            <summary>
+            密码格式错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.WrongPassword">
+            <summary>
+            密码错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.Cancelled">
+            <summary>
+            玩家取消
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.VerifyFailed">
+            <summary>
+            第三方验证失败
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.Failed">
+            <summary>
+            正常的其他失败
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.ELoginResultStatus.InternalError">
+            <summary>
+            其他内部错误
+            </summary>
+        </member>
+        <member name="T:GSDKUnityLib.Account.Login.LoginResultInfo">
+            <summary>
+            登录结果
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.LoginResultInfo.Status">
+            <summary>
+            状态码
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.LoginResultInfo.InternalErrorCode">
+            <summary>
+            内部错误码，一般用来存储渠道SDK的错误码
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.LoginResultInfo.ErrorMsg">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.LoginResultInfo.AccountInfo">
+            <summary>
+            已登录的账号信息
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Account.Login.LoginResultInfo.NoVerify">
+            <summary>
+            此SDK是否支持第三方验证，如果不支持，用一个固定密码登录即可
+            </summary>
+        </member>
+        <member name="T:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo">
+            <summary>
+            密码找回结果
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo.Username">
+            <summary>
+            平台用户名
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo.UID">
+            <summary>
+            平台账号ID
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo.Token">
+            <summary>
+            第三方登录验证的Token
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo.ServerTime">
+            <summary>
+            服务器时间
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo.LoggedIn">
+            <summary>
+            预留 是否登录
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Account.RestorePass.RestorePassResultInfo.FromJsonStr(System.String)">
+            <summary>
+            用一个Json字符串构造
+            </summary>
+            <param name="jsonStr"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GSDKUnityLib.GSDKProxy">
+            <summary>
+            JAVA事件的接收器，必须存在于场景中
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.GSDKProxy.OnJavaLoginResult(System.String)">
+            <summary>
+            登录回调入口
+            由Java直接调用，开发者无需处理
+            </summary>
+            <param name="loginInfo">执行结束时的回调</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDKProxy.OnJavaRestorePassResult(System.String)">
+            <summary>
+            重置密码回调入口
+            由Java直接调用，开发者无需处理
+            </summary>
+            <param name="restorePassInfo">表示执行结果的json字符串</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDKProxy.OnJavaChangePassResult(System.String)">
+            <summary>
+            修改密码结果回调
+            由Java直接调用，开发者无需处理
+            </summary>
+            <param name="changePassInfo">表示执行结果的json字符串</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDKProxy.OnJavaMainUpgradeResult(System.String)">
+            <summary>
+            大版本更新回调入口 
+            由Java直接调用，开发者无需处理
+            </summary>
+            <param name="mainUpgradeInfoStr"></param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDKProxy.OnJavaPayResult(System.String)">
+            <summary>
+            支付回调入口，由Java调用
+            </summary>
+            <param name="payResultInfoStr"></param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDKProxy.OnJavaCheckOrderResult(System.String)">
+            <summary>
+            检查订单状态回调入口，由Java调用
+            </summary>
+            <param name="checkOrderInfoStr"></param>
+        </member>
+        <member name="T:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus">
+            <summary>
+            检查更新状态码
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.Succeed">
+            <summary>
+            有更新且正常启动更新
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.Failed">
+            <summary>
+            未明确的失败
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.Cancelled">
+            <summary>
+            用户选择取消
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.NoNewVersion">
+            <summary>
+            没有新版本
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.MainUpgradeNotSupported">
+            <summary>
+            不支持大版本更新这个功能
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.PHPError">
+            <summary>
+            PHP提示逻辑错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.SourceListEmpty">
+            <summary>
+            更新来源列表为空
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.ServerError">
+            <summary>
+            服务器返回错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.JSONError">
+            <summary>
+            JSON处理错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.EMainUpgradeResultStatus.InternalError">
+            <summary>
+            内部错误
+            </summary>
+        </member>
+        <member name="T:GSDKUnityLib.MainUpgrade.MainUpgradeResultInfo">
+            <summary>
+            版本更新信息
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.MainUpgrade.MainUpgradeResultInfo.Status">
+            <summary>
+            状态码
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.MainUpgrade.MainUpgradeResultInfo.#ctor">
+            <summary>
+            默认构造
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.MainUpgrade.MainUpgradeResultInfo.FromJsonStr(System.String)">
+            <summary>
+            用Json构造
+            </summary>
+            <param name="jsonStr"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GSDKUnityLib.Pay.CheckOrder.CheckOrderResultInfo">
+            <summary>
+            检查订单结果
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.CheckOrder.CheckOrderResultInfo.Status">
+            <summary>
+            状态码
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.CheckOrder.CheckOrderResultInfo.ErrorMsg">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Pay.CheckOrder.CheckOrderResultInfo.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Pay.CheckOrder.CheckOrderResultInfo.FromJsonStr(System.String)">
+            <summary>
+            用json字符串构造
+            </summary>
+            <param name="jsonStr"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GSDKUnityLib.Pay.CheckOrder.ECheckOrderResultStatus">
+            <summary>
+            检查订单返回状态码
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.CheckOrder.ECheckOrderResultStatus.Paid">
+            <summary>
+            已支付
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.CheckOrder.ECheckOrderResultStatus.Unpaid">
+            <summary>
+            未支付
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.CheckOrder.ECheckOrderResultStatus.OrderNotExist">
+            <summary>
+            订单不存在
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.CheckOrder.ECheckOrderResultStatus.NetworkError">
+            <summary>
+            网络错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.CheckOrder.ECheckOrderResultStatus.JsonError">
+            <summary>
+            Json错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.CheckOrder.ECheckOrderResultStatus.InternalError">
+            <summary>
+            其他内部错误
+            </summary>
+        </member>
+        <member name="T:GSDKUnityLib.Pay.EPayResultStatus">
+            <summary>
+            支付结果状态
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.EPayResultStatus.Succeed">
+            <summary>
+            成功
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.EPayResultStatus.Failed">
+            <summary>
+            失败
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.EPayResultStatus.Cancelled">
+            <summary>
+            取消
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.EPayResultStatus.FailedToGetOrder">
+            <summary>
+            获取订单号失败
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.EPayResultStatus.InternalError">
+            <summary>
+            其他内部错误
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.PropName">
+            <summary>
+            必填 商品名称
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.PriceInCurrency">
+            <summary>
+            必填 真实货币价格 单位是货币的最小面值 (如人民币的1分)
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.PropID">
+            <summary>
+            必填 游戏内部的计费代码
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.PayID">
+            <summary>
+            可选 在渠道注册的计费代码 （根据GSDK_PayIDMap.json来做自动映射，也可以在调用支付接口时由游戏层指定）
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.ExchangeRate">
+            <summary>
+            可选 真实货币与平台币的汇率 （如果调用支付接口时未指定，则读取SDK内的配置 ）
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.UserID">
+            <summary>
+            必填 当前玩家的游戏内唯一标识
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.UserAccount">
+            <summary>
+            可选 玩家登录名
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.ServerID">
+            <summary>
+            必填 服务器ID
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.PropDesc">
+            <summary>
+            必填 商品描述信息
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayInfo.CallbackExtraInfo">
+            <summary>
+            必填 透传参数(请填写订单号)
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Pay.PayInfo.ToJsonStr">
+            <summary>
+            ToString
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GSDKUnityLib.Pay.PayResultInfo">
+            <summary>
+            支付结果
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayResultInfo.Status">
+            <summary>
+            错误码
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayResultInfo.InfoStr">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayResultInfo.InternalErrorCode">
+            <summary>
+            内部错误码
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayResultInfo.InternalErrorStr">
+            <summary>
+            内部错误信息 
+            </summary>
+        </member>
+        <member name="F:GSDKUnityLib.Pay.PayResultInfo.OrderIDStr">
+            <summary>
+            订单号
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Pay.PayResultInfo.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Pay.PayResultInfo.FromJsonStr(System.String)">
+            <summary>
+            用json字符串构造
+            </summary>
+            <param name="jsonStr"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GSDKUnityLib.GSDK">
+            <summary>
+            GSDK框架
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.Instance">
+            <summary>
+            GSDK的单例
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.Initialize(System.String)">
+            <summary>
+            初始化GSDK
+            </summary>
+            <param name="customCfgJsonStr">预留 自定义配置，用于UnityEditor环境下快速调试</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.OnAppExiting">
+            <summary>
+            准备退出
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.SetServerID(System.Int64)">
+            <summary>
+            设置游戏服务器ID
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.SetCharacterIDStr(System.String)">
+            <summary>
+            设置游戏账号ID
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.IsInternalNetworkPlatform">
+            <summary>
+            是否内网平台
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.SupportPlatformAccount">
+            <summary>
+            是否支持平台账号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GuiAvailableLogin">
+            <summary>
+            当前平台是否提供独立的登陆界面
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GuiAvailableRegist">
+            <summary>
+            当前平台是否提供独立的注册界面
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GuiAvailableChangePass">
+            <summary>
+            当前平台是否提供独立的改密界面
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GuiAvailableRestorePass">
+            <summary>
+            当前平台是否提供独立的密码找回界面
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GuiAvailableChangeAccount">
+            <summary>
+            当前平台是否提供独立的账号切换界面
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GetAccountProviderName">
+            <summary>
+            AccountProvider的名称
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.StartLoginAsnyc(System.Action{GSDKUnityLib.Account.Login.LoginResultInfo})">
+            <summary>
+            开始登陆
+            </summary>
+            <param name="callback">执行结束时的回调</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.OnJavaLoginResult(GSDKUnityLib.Account.Login.LoginResultInfo)">
+            <summary>
+            登录回调入口
+            由Java直接调用，开发者无需处理
+            </summary>
+            <param name="loginInfo">执行结束时的回调</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.StartRestorePassAsync(System.Action{GSDKUnityLib.Account.RestorePass.RestorePassResultInfo})">
+            <summary>
+            找回密码
+            </summary>
+            <param name="callback">执行结束时的回调</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.OnJavaRestorePassResult(GSDKUnityLib.Account.RestorePass.RestorePassResultInfo)">
+            <summary>
+            重置密码回调入口
+            由Java直接调用，开发者无需处理
+            </summary>
+            <param name="restorePassInfo">表示执行结果的json字符串</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.StartChangePassAsync(System.Action{System.String})">
+            <summary>
+            修改密码
+            </summary>
+            <param name="callback"></param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.OnJavaChangePassResult(System.String)">
+            <summary>
+            修改密码结果回调
+            由Java直接调用，开发者无需处理
+            </summary>
+            <param name="changePassInfo">表示执行结果的json字符串</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.StartMainUpgradeAsync(System.String,System.Action{GSDKUnityLib.MainUpgrade.MainUpgradeResultInfo})">
+            <summary>
+            开始大版本更新
+            </summary>
+            <param name="customJsonStr"></param>
+            <param name="callback"></param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.OnJavaMainUpgradeResult(GSDKUnityLib.MainUpgrade.MainUpgradeResultInfo)">
+            <summary>
+            大版本更新回调入口 
+            </summary>
+            <param name="mainUpgradeResultInfo"></param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GetExchangeName">
+            <summary>
+            获取平台货币名称
+            </summary>
+            <returns>"Currency"表示此平台直接使用人民币计费，非"Currency"的返回值，如"米币""云币"，平台要求在游戏内显示平台币，商品金额也需要换算为平台币。</returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GetExchangeRate">
+            <summary>
+            获取平台汇率
+            比值为正数-- 平台币:真币  比值为负数-- 真币:平台币    真币的单位是PriceInCurrency的单位
+            </summary>
+            <returns>The exchange rate.</returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.GetExchangePrice(System.Single)">
+            <summary>
+            将真实货币换算成平台货币
+            </summary>
+            <param name="money"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.StartPayAsync(GSDKUnityLib.Pay.PayInfo,System.Action{GSDKUnityLib.Pay.PayResultInfo})">
+            <summary>
+            开始支付
+            </summary>
+            <param name="payInfo">付费参数 PropName、PriceInCurrency、PropID为必填 强联网游戏UserID必填ServerID可选</param>
+            <param name="callback">支付回调</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.StartCheckOrderAsync(System.String,System.Action{GSDKUnityLib.Pay.CheckOrder.CheckOrderResultInfo})">
+            <summary>
+            检查订单状态
+            此接口不屏蔽游戏线程的输入，请开发者根据实际情况选择是否屏蔽玩家数据
+            </summary>
+            <param name="orderIDStr">订单号</param>
+            <param name="callback">检查到订单号状态之后的回调</param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.OnJavaCheckOrderResult(GSDKUnityLib.Pay.CheckOrder.CheckOrderResultInfo)">
+            <summary>
+            检查订单Java回调
+            </summary>
+            <param name="checkOrderResultInfo"></param>
+        </member>
+        <member name="M:GSDKUnityLib.GSDK.OnJavaPayResult(GSDKUnityLib.Pay.PayResultInfo)">
+            <summary>
+            支付Java回调
+            </summary>
+            <param name="payResultInfo"></param>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.PackageVersionName">
+            <summary>
+            APK包版本名
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.PackageVersionCodeStr">
+            <summary>
+            APK包版本号
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKPlatformIDStr">
+            <summary>
+            平台ID
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKPlatformName">
+            <summary>
+            平台名称
+            如: cyberTV aliTV
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKPayCallbackURL">
+            <summary>
+            GSDK计费回调地址
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKPackageName">
+            <summary>
+            APK包名
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKGameName">
+            <summary>
+            游戏可读名称
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKGameID">
+            <summary>
+            GSDK游戏ID
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKGameIDStr">
+            <summary>
+            GSDK游戏ID字符串
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKAuthKey">
+            <summary>
+            GSDK账号密钥
+            </summary>
+        </member>
+        <member name="P:GSDKUnityLib.GSDK.GSDKPayKey">
+            <summary>
+            GSDK支付密钥
+            </summary>
+        </member>
+        <member name="T:GSDKUnityLib.Util">
+            <summary>
+            工具类
+            </summary>
+        </member>
+        <member name="M:GSDKUnityLib.Util.TryCallStaticJavaMethod``1(System.String,System.String,System.Object[])">
+            <summary>
+            使用JNI调用Java方法
+            </summary>
+            <returns>status true/false 以及 函数返回值</returns>
+            <param name="className">类完整名称 如: com.apowo.gsdk.GSDKJNI</param>
+            <param name="methodName">函数名</param>
+            <param name="args">函数参数</param>
+        </member>
+        <member name="M:GSDKUnityLib.Util.TryCallStaticJavaMethod(System.String,System.String,System.Object[])">
+            <summary>
+            使用JNI调用Java方法
+            </summary>
+            <returns><c>true</c>, if call static java method was tryed, <c>false</c> otherwise.</returns>
+            <param name="className">Class name.</param>
+            <param name="methodName">Method name.</param>
+            <param name="args">Arguments.</param>
+        </member>
+        <member name="M:GSDKUnityLib.Util.IsPlatformWindows">
+            <summary>
+            当前平台是否为Windows (WindowsEditor/WindowsPlayer)
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

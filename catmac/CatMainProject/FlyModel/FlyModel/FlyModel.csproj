@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3EFA81EE-C19E-49DF-93E0-428529703C2B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FlyModel</RootNamespace>
+    <AssemblyName>FlyModel</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>..\..\Assets\Plugins\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>..\..\Assets\Plugins\DOTween\DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>..\..\Assets\Plugins\DOTween\DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>..\..\Assets\Plugins\DOTween\DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="GSDKUnityLib">
+      <HintPath>..\..\Assets\Plugins\GSDKUnityLib.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleProtoParser, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Temp\UnityVS_bin\Debug\SimpleProtoParser.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\Temp\UnityVS_bin\Debug\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\CommandHandle.cs" />
+    <Compile Include="Control\Behaviours\BehaviourBase.cs" />
+    <Compile Include="Control\Behaviours\BehaviourManager.cs" />
+    <Compile Include="Control\Behaviours\RotateBehaviour.cs" />
+    <Compile Include="Control\DisposeObject.cs" />
+    <Compile Include="Control\GameMain.cs" />
+    <Compile Include="Control\UI\BehaviourHandle.cs" />
+    <Compile Include="Control\UI\UIDataListener.cs" />
+    <Compile Include="Model\AwardManager.cs" />
+    <Compile Include="Model\BagManager.cs" />
+    <Compile Include="Model\Data\AwardData.cs" />
+    <Compile Include="Model\Data\BagItemData.cs" />
+    <Compile Include="Model\Data\BaseProp.cs" />
+    <Compile Include="Model\Data\CatData.cs" />
+    <Compile Include="Model\Data\CatGiftData.cs" />
+    <Compile Include="Model\Data\EffectiveData.cs" />
+    <Compile Include="Model\Data\FoodData.cs" />
+    <Compile Include="Model\Data\GiftData.cs" />
+    <Compile Include="Model\Data\GuideActionData.cs" />
+    <Compile Include="Model\Data\GuideData.cs" />
+    <Compile Include="Model\Data\HandbookData.cs" />
+    <Compile Include="Model\Data\IBaseProp.cs" />
+    <Compile Include="Model\Data\MailData.cs" />
+    <Compile Include="Model\Data\PhotoData.cs" />
+    <Compile Include="Model\Data\RoomData.cs" />
+    <Compile Include="Model\Data\ShopItemData.cs" />
+    <Compile Include="Model\Data\TaskData.cs" />
+    <Compile Include="Model\Data\ToyData.cs" />
+    <Compile Include="Model\Data\User.cs" />
+    <Compile Include="Model\GuideManager.cs" />
+    <Compile Include="Model\HandbookManager.cs" />
+    <Compile Include="Model\MailManager.cs" />
+    <Compile Include="Model\PhotoManager.cs" />
+    <Compile Include="Model\RoomManager.cs" />
+    <Compile Include="Model\TaskManager.cs" />
+    <Compile Include="ProtoData\ProtoData.cs" />
+    <Compile Include="UI\ColorConfig.cs" />
+    <Compile Include="UI\Component\RandomName.cs" />
+    <Compile Include="UI\Component\ShieldKeyword.cs" />
+    <Compile Include="UI\Component\SoundButton.cs" />
+    <Compile Include="UI\Component\TimeTick.cs" />
+    <Compile Include="UI\EnumConfig.cs" />
+    <Compile Include="Model\ShopManager.cs" />
+    <Compile Include="Model\UserManager.cs" />
+    <Compile Include="ProtoData\Interface\IProtoObject.cs" />
+    <Compile Include="Model\CatManager.cs" />
+    <Compile Include="UI\Component\BackKeyController.cs" />
+    <Compile Include="UI\Component\DragSensor.cs" />
+    <Compile Include="UI\NumeralConfig.cs" />
+    <Compile Include="UI\Panel\AdvisePanel\AdvisePanel.cs" />
+    <Compile Include="UI\Panel\Alert\AlertPanel.cs" />
+    <Compile Include="UI\Panel\AwardPanel\AwardCell.cs" />
+    <Compile Include="UI\Panel\AwardPanel\AwardPanel.cs" />
+    <Compile Include="UI\Panel\CatTreasurePanel\CatTreasureDisplayPanel.cs" />
+    <Compile Include="UI\Panel\CatTreasurePanel\CatTreasureGetPanel.cs" />
+    <Compile Include="UI\Panel\CatTreasurePanel\CatTreasurePanel.cs" />
+    <Compile Include="UI\Panel\ChatPanel\ChatPanel.cs" />
+    <Compile Include="UI\Panel\ExchangePanel\ExchangePanel.cs" />
+    <Compile Include="UI\Panel\HeadPanel\HeadPanel.cs" />
+    <Compile Include="UI\Panel\HeadSelectPanel\HeadSelectPanel.cs" />
+    <Compile Include="UI\Panel\LotteryPanel\LotteryPanel.cs" />
+    <Compile Include="UI\Panel\MailPanel\MailContentPanel.cs" />
+    <Compile Include="UI\Panel\CatPopupPanel\CatGiftPopupPanel.cs" />
+    <Compile Include="UI\Panel\CatPopupPanel\CatPopupPanel.cs" />
+    <Compile Include="UI\Panel\CreateCharacterPanel\CreateCharacterPanel.cs" />
+    <Compile Include="UI\Panel\FoodPopupPanel\Food.cs" />
+    <Compile Include="UI\Panel\FoodPopupPanel\FoodPopupPanel.cs" />
+    <Compile Include="UI\Panel\GuidePanel\GuideMaskPanel.cs" />
+    <Compile Include="UI\Panel\GuidePanel\GuidePanel.cs" />
+    <Compile Include="UI\Panel\LoginPanel\DirectConnectPanel.cs" />
+    <Compile Include="UI\Panel\LoginPanel\DisConnectMonitor.cs" />
+    <Compile Include="UI\Panel\LoginPanel\LoginUtil.cs" />
+    <Compile Include="UI\Panel\MailPanel\MailCell.cs" />
+    <Compile Include="UI\Panel\MailPanel\MailPanel.cs" />
+    <Compile Include="UI\Panel\PictureSharePanel\PictureSharePanel.cs" />
+    <Compile Include="UI\Panel\RechargePanel\RechargePanel.cs" />
+    <Compile Include="UI\Panel\SharePanel\SharePanel.cs" />
+    <Compile Include="UI\Panel\SignPanel\SignCell.cs" />
+    <Compile Include="UI\Panel\SignPanel\SignPanel.cs" />
+    <Compile Include="UI\Panel\TaskPanel\AchievementCell.cs" />
+    <Compile Include="UI\Panel\TaskPanel\TaskPanel.cs" />
+    <Compile Include="UI\Panel\TipPanel\TipPanel.cs" />
+    <Compile Include="UI\Panel\TutorialPanel\TutorialPanel.cs" />
+    <Compile Include="UI\Panel\HandbookPanel\HandbookCellItem.cs" />
+    <Compile Include="UI\Panel\HandbookPanel\HandbookPanel.cs" />
+    <Compile Include="UI\Panel\HotFixPanel\HotFixPanel.cs" />
+    <Compile Include="UI\Panel\LoadingPanel\LoadingInfo.cs" />
+    <Compile Include="UI\Panel\LoadingPanel\LoadingPanel.cs" />
+    <Compile Include="UI\Panel\LoadingPanel\LoadingQueue.cs" />
+    <Compile Include="UI\Panel\PicturePreviewPanel\FullSizePreviewContainer.cs" />
+    <Compile Include="UI\Panel\PicturePreviewPanel\ImageCell.cs" />
+    <Compile Include="UI\Panel\PicturePreviewPanel\PicturePreviewPanel.cs" />
+    <Compile Include="UI\Panel\PicturePreviewPanel\RowCellImageItem.cs" />
+    <Compile Include="UI\Panel\PicturesPanel\PhotoCellItem.cs" />
+    <Compile Include="UI\Panel\PicturesPanel\PicturesPanel.cs" />
+    <Compile Include="UI\Panel\PropPopupPanel\PropPopupPanel.cs" />
+    <Compile Include="UI\Panel\SceneChangePanel\SceneCell.cs" />
+    <Compile Include="UI\Panel\SceneChangePanel\SceneChangePanel.cs" />
+    <Compile Include="UI\Panel\ScenePhotoPanel\RowCellScenePhotoItem.cs" />
+    <Compile Include="UI\Panel\ScenePhotoPanel\ScenePhotoCell.cs" />
+    <Compile Include="UI\Panel\ScenePhotoPanel\ScenePhotoPanel.cs" />
+    <Compile Include="UI\Panel\ScenePhotoPreviewPanel\ScenePhotoPreviewPanel.cs" />
+    <Compile Include="UI\Panel\SettingPanel\SettingPanel.cs" />
+    <Compile Include="UI\Panel\ShopPanel\ShopCellItem.cs" />
+    <Compile Include="UI\Panel\ShopPanel\ShopPanel.cs" />
+    <Compile Include="UI\Panel\SystemBar\SystemBar.cs" />
+    <Compile Include="UI\Panel\SystemBar\SystemMenuBtn.cs" />
+    <Compile Include="UI\Panel\TakePicturePanel\TakePicturePanel.cs" />
+    <Compile Include="UI\Panel\Toolbar\InfoBar.cs" />
+    <Compile Include="UI\Panel\TreasurePanel\RowCellItem.cs" />
+    <Compile Include="UI\Panel\TreasurePanel\TreasureItem.cs" />
+    <Compile Include="UI\Panel\TreasurePanel\TreasurePanel.cs" />
+    <Compile Include="UI\ResPathConfig.cs" />
+    <Compile Include="UI\Scene\ViewObject\CatGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\Data\PetAnimation.cs" />
+    <Compile Include="UI\Scene\ViewObject\Data\PetInfo.cs" />
+    <Compile Include="UI\Scene\ViewObject\Data\ScenePointStruct.cs" />
+    <Compile Include="UI\Scene\ViewObject\Data\ToyStructInfo.cs" />
+    <Compile Include="UI\Scene\ViewObject\FoodGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\SceneViewObject\FoodPointGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\SceneViewObject\InteractivePoint.cs" />
+    <Compile Include="UI\Scene\ViewObject\SceneViewObject\LayerGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\SceneViewObject\ToyMarkPointGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\SceneViewObject\ToyPointGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\ToyViewObject\PlayPointGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\ToyViewObject\PlayPointLayerGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\SceneViewObject\SceneGameObject.cs" />
+    <Compile Include="UI\Scene\ViewObject\ToyViewObject\ToyGameObject.cs" />
+    <Compile Include="Model\SceneManager.cs" />
+    <Compile Include="Model\SceneGameObjectManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Component\PageView\IItem.cs" />
+    <Compile Include="UI\Component\PageView\PageItem.cs" />
+    <Compile Include="UI\Component\PageView\PageMark.cs" />
+    <Compile Include="UI\Component\PageView\PageView.cs" />
+    <Compile Include="UI\Panel\Bag\BagCellItem.cs" />
+    <Compile Include="UI\Panel\Bag\BagPanel.cs" />
+    <Compile Include="UI\Panel\LoginPanel\LoginPanel.cs" />
+    <Compile Include="UI\Panel\PanelBase.cs" />
+    <Compile Include="UI\Panel\PanelManager.cs" />
+    <Compile Include="UI\Scene\BaseScene.cs" />
+    <Compile Include="UI\Scene\MainScene.cs" />
+    <Compile Include="UI\Scene\ArtTestScene.cs" />
+    <Compile Include="UI\Scene\ViewObject\ToyViewObject\ToyLayerGameObject.cs" />
+    <Compile Include="Utils\ConfigUtil.cs" />
+    <Compile Include="Utils\PhoneCameraUtil.cs" />
+    <Compile Include="Utils\SoundUtil.cs" />
+    <Compile Include="Utils\TypewriterUtil.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>echo f |xcopy /r /y /s /E $(TargetDir)$(Targetname).dll $(ProjectDir)..\..\Assets\HotFix\$(Targetname).dll.bytes 
+echo f |xcopy /r /y /s /E /i $(TargetDir)$(Targetname).pdb $(ProjectDir)..\..\Assets\HotFix\$(Targetname).pdb.bytes</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

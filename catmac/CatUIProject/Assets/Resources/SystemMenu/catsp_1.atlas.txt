@@ -1,0 +1,34 @@
+
+catsp_1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+catgift
+  rotate: false
+  xy: 158, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+catgift_1
+  rotate: false
+  xy: 2, 54
+  size: 154, 50
+  orig: 154, 50
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 260, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+house_1
+  rotate: false
+  xy: 2, 2
+  size: 154, 50
+  orig: 154, 50
+  offset: 0, 0
+  index: -1

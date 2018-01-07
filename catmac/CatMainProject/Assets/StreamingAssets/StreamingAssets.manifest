@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2175683574
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: flymodel.dll.ab
+      Dependencies: {}
+    Info_1:
+      Name: flymodel.pdb.ab
+      Dependencies: {}

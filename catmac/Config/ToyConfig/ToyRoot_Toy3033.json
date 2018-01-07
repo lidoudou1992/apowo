@@ -1,0 +1,498 @@
+{
+  "ToyLayers": [
+    {
+      "PlayPointLayers": [
+        {
+          "Points": [
+            {
+              "HideToyLayers": [
+                "ToyLayer_1",
+                "ToyLayer_2"
+              ],
+              "PointName": "Point_1",
+              "Cats": []
+            }
+          ],
+          "LayerName": "PlayPointLayer_1"
+        }
+      ],
+      "LayerName": "ToyLayer_stop"
+    },
+    {
+      "PlayPointLayers": [
+        {
+          "Points": [
+            {
+              "HideToyLayers": [
+                "ToyLayer_stop",
+                "ToyLayer_2"
+              ],
+              "PointName": "Point_1",
+              "Cats": [
+                {
+                  "CatName": "catani004",
+                  "Animations": [
+                    {
+                      "ShadowX": "-6.000",
+                      "ShadowY": "26.600",
+                      "RotationZ": "0.000",
+                      "X": "-1.600",
+                      "Y": "23.500",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "1.000",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action0001",
+                      "ShadowName": "pang2_0001yz"
+                    },
+                    {
+                      "ShadowX": "-2.500",
+                      "ShadowY": "26.600",
+                      "RotationZ": "0.000",
+                      "X": "5.300",
+                      "Y": "24.000",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "1.000",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action0003",
+                      "ShadowName": "pang2_0001yz"
+                    },
+                    {
+                      "ShadowX": "2.000",
+                      "ShadowY": "29.600",
+                      "RotationZ": "0.000",
+                      "X": "5.300",
+                      "Y": "27.900",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "1.000",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action0004",
+                      "ShadowName": "pang2_0001yz"
+                    },
+                    {
+                      "ShadowX": "-10.600",
+                      "ShadowY": "24.100",
+                      "RotationZ": "0.000",
+                      "X": "6.300",
+                      "Y": "23.800",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "1.500",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action1051",
+                      "ShadowName": "pang2_1051yz"
+                    },
+                    {
+                      "ShadowX": "3.400",
+                      "ShadowY": "32.700",
+                      "RotationZ": "0.000",
+                      "X": "13.000",
+                      "Y": "25.300",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1052",
+                      "ShadowName": "pang2_1051yz"
+                    },
+                    {
+                      "ShadowX": "4.300",
+                      "ShadowY": "31.700",
+                      "RotationZ": "0.000",
+                      "X": "13.100",
+                      "Y": "22.500",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1101",
+                      "ShadowName": "pang2_1101yz"
+                    },
+                    {
+                      "ShadowX": "1.500",
+                      "ShadowY": "28.500",
+                      "RotationZ": "0.000",
+                      "X": "8.300",
+                      "Y": "19.600",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1102",
+                      "ShadowName": "pang2_1101yz"
+                    },
+                    {
+                      "ShadowX": "16.200",
+                      "ShadowY": "28.100",
+                      "RotationZ": "0.000",
+                      "X": "25.300",
+                      "Y": "15.100",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1301",
+                      "ShadowName": "pang2_1301yz"
+                    },
+                    {
+                      "ShadowX": "-2.200",
+                      "ShadowY": "32.600",
+                      "RotationZ": "0.000",
+                      "X": "5.600",
+                      "Y": "16.900",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action2151",
+                      "ShadowName": "pang2_2151yz"
+                    },
+                    {
+                      "ShadowX": "2.400",
+                      "ShadowY": "31.000",
+                      "RotationZ": "0.000",
+                      "X": "7.500",
+                      "Y": "23.900",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action2401",
+                      "ShadowName": "pang2_2401yz"
+                    }
+                  ]
+                },
+                {
+                  "CatName": "catani015",
+                  "Animations": [
+                    {
+                      "ShadowX": "5.800",
+                      "ShadowY": "29.200",
+                      "RotationZ": "0.000",
+                      "X": "2.200",
+                      "Y": "25.400",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-1.000",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action0001",
+                      "ShadowName": "pang2_0001yz"
+                    },
+                    {
+                      "ShadowX": "3.800",
+                      "ShadowY": "27.600",
+                      "RotationZ": "0.000",
+                      "X": "3.000",
+                      "Y": "22.400",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-2.000",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action0003",
+                      "ShadowName": "pang2_0001yz"
+                    },
+                    {
+                      "ShadowX": "5.300",
+                      "ShadowY": "29.800",
+                      "RotationZ": "0.000",
+                      "X": "1.500",
+                      "Y": "26.900",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-1.000",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action0004",
+                      "ShadowName": "pang2_0001yz"
+                    },
+                    {
+                      "ShadowX": "2.700",
+                      "ShadowY": "29.600",
+                      "RotationZ": "0.000",
+                      "X": "-8.200",
+                      "Y": "24.600",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-1.800",
+                      "ShadowScaleY": "1.800",
+                      "AnimationName": "action1051",
+                      "ShadowName": "pang2_1051yz"
+                    },
+                    {
+                      "ShadowX": "7.500",
+                      "ShadowY": "31.200",
+                      "RotationZ": "0.000",
+                      "X": "-1.900",
+                      "Y": "22.400",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1052",
+                      "ShadowName": "pang2_1051yz"
+                    },
+                    {
+                      "ShadowX": "2.500",
+                      "ShadowY": "31.600",
+                      "RotationZ": "0.000",
+                      "X": "3.700",
+                      "Y": "22.300",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1101",
+                      "ShadowName": "pang2_1101yz"
+                    },
+                    {
+                      "ShadowX": "7.600",
+                      "ShadowY": "32.200",
+                      "RotationZ": "0.000",
+                      "X": "8.400",
+                      "Y": "22.900",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1102",
+                      "ShadowName": "pang2_1101yz"
+                    },
+                    {
+                      "ShadowX": "-4.100",
+                      "ShadowY": "30.400",
+                      "RotationZ": "8.739",
+                      "X": "-15.500",
+                      "Y": "20.900",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1301",
+                      "ShadowName": "pang2_1301yz"
+                    },
+                    {
+                      "ShadowX": "12.600",
+                      "ShadowY": "33.600",
+                      "RotationZ": "0.000",
+                      "X": "6.400",
+                      "Y": "15.000",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action2151",
+                      "ShadowName": "pang2_2151yz"
+                    },
+                    {
+                      "ShadowX": "1.500",
+                      "ShadowY": "29.400",
+                      "RotationZ": "0.000",
+                      "X": "2.000",
+                      "Y": "21.100",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action2401",
+                      "ShadowName": "pang2_2401yz"
+                    }
+                  ]
+                },
+                {
+                  "CatName": "catani011",
+                  "Animations": [
+                    {
+                      "ShadowX": "-6.000",
+                      "ShadowY": "29.200",
+                      "RotationZ": "0.000",
+                      "X": "3.600",
+                      "Y": "38.700",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1101",
+                      "ShadowName": "pang1_1101yz"
+                    },
+                    {
+                      "ShadowX": "4.500",
+                      "ShadowY": "22.800",
+                      "RotationZ": "0.000",
+                      "X": "3.600",
+                      "Y": "43.300",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action2401",
+                      "ShadowName": "pang1_2401yz"
+                    }
+                  ]
+                },
+                {
+                  "CatName": "catani023",
+                  "Animations": [
+                    {
+                      "ShadowX": "-3.200",
+                      "ShadowY": "21.800",
+                      "RotationZ": "0.000",
+                      "X": "-2.800",
+                      "Y": "40.600",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "1.000",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action1101",
+                      "ShadowName": "pang1_1101yz"
+                    },
+                    {
+                      "ShadowX": "1.700",
+                      "ShadowY": "21.600",
+                      "RotationZ": "0.000",
+                      "X": "-1.400",
+                      "Y": "45.500",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "1.000",
+                      "ShadowScaleY": "1.000",
+                      "AnimationName": "action2401",
+                      "ShadowName": "pang1_2401yz"
+                    }
+                  ]
+                },
+                {
+                  "CatName": "catani010",
+                  "Animations": [
+                    {
+                      "ShadowX": "1.600",
+                      "ShadowY": "26.600",
+                      "RotationZ": "0.000",
+                      "X": "7.900",
+                      "Y": "16.500",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1051",
+                      "ShadowName": "biaozhun_1051yz"
+                    },
+                    {
+                      "ShadowX": "5.600",
+                      "ShadowY": "29.400",
+                      "RotationZ": "0.000",
+                      "X": "9.100",
+                      "Y": "18.700",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action1052",
+                      "ShadowName": "biaozhun_1051yz"
+                    },
+                    {
+                      "ShadowX": "3.700",
+                      "ShadowY": "31.800",
+                      "RotationZ": "345.081",
+                      "X": "15.600",
+                      "Y": "18.400",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "1.500",
+                      "ShadowScaleY": "1.500",
+                      "AnimationName": "action1301",
+                      "ShadowName": "biaozhun_1301yz"
+                    },
+                    {
+                      "ShadowX": "3.800",
+                      "ShadowY": "30.700",
+                      "RotationZ": "0.000",
+                      "X": "7.000",
+                      "Y": "24.900",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action2151",
+                      "ShadowName": "biaozhun_2151yz"
+                    },
+                    {
+                      "ShadowX": "5.000",
+                      "ShadowY": "34.000",
+                      "RotationZ": "0.000",
+                      "X": "7.400",
+                      "Y": "17.000",
+                      "ScaleX": "-1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "2.000",
+                      "ShadowScaleY": "2.000",
+                      "AnimationName": "action2401",
+                      "ShadowName": "biaozhun_2401yz"
+                    }
+                  ]
+                },
+                {
+                  "CatName": "catani510",
+                  "Animations": [
+                    {
+                      "ShadowX": "16.700",
+                      "ShadowY": "34.300",
+                      "RotationZ": "0.000",
+                      "X": "16.000",
+                      "Y": "33.500",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "-2.500",
+                      "ShadowScaleY": "1.500",
+                      "AnimationName": "animation1",
+                      "ShadowName": "shou_1302yz"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "LayerName": "PlayPointLayer_1"
+        }
+      ],
+      "LayerName": "ToyLayer_1"
+    },
+    {
+      "PlayPointLayers": [
+        {
+          "Points": [
+            {
+              "HideToyLayers": [
+                "ToyLayer_stop",
+                "ToyLayer_1"
+              ],
+              "PointName": "Point_1",
+              "Cats": [
+                {
+                  "CatName": "catani510",
+                  "Animations": [
+                    {
+                      "ShadowX": "0.000",
+                      "ShadowY": "0.000",
+                      "RotationZ": "0.000",
+                      "X": "-19.000",
+                      "Y": "-12.900",
+                      "ScaleX": "1.000",
+                      "ScaleY": "1.000",
+                      "ShadowScaleX": "0.000",
+                      "ShadowScaleY": "0.000",
+                      "AnimationName": "animation2",
+                      "ShadowName": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "LayerName": "PlayPointLayer_1"
+        }
+      ],
+      "LayerName": "ToyLayer_2"
+    }
+  ]
+}

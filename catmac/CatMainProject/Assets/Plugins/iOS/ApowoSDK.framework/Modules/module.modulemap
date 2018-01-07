@@ -1,0 +1,10 @@
+framework module ApowoSDK {
+  umbrella header "ApowoSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module ApowoSDK.Swift {
+    header "ApowoSDK-Swift.h"
+}

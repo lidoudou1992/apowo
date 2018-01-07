@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3598365573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0ae55b5d1507dd50d8687add5b31c2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/CatShadow/pang2_2151yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_1302yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_2401yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_2001yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_2351yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_2101yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_2251yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_1051yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_1051yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_1305yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_1302yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_2051yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_2401yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_2251yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_0001yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_2401yz.png
+- Assets/Resources/Prefabs/CatShadow/Toyani3020_zz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_2351yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_1251yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_1101yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_1303yz.png
+- Assets/Resources/Prefabs/CatShadow/shou0002.png
+- Assets/Resources/Prefabs/CatShadow/sou0001.png
+- Assets/Resources/Prefabs/CatShadow/pang1_1251yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_0051yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_2351yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_1051yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_1251yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_2051yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_1101yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_1303yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_2151yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_1204yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_2101yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_1201yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_1301yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_1301yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_1001yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_1303yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_1201yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_1151yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_1001yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_1203yz.png
+- Assets/Resources/Prefabs/CatShadow/pang2_0001yz.png
+- Assets/Resources/Prefabs/CatShadow/shou_1201yz.png
+- Assets/Resources/Prefabs/CatShadow/pang1_2351yz.png
+- Assets/Resources/Prefabs/CatShadow/biaozhun_1151yz.png
+Dependencies: []

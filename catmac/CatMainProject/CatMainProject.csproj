@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B989FD1C-A75E-5D1F-2DDE-83B0295C65EA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>iOS:9</UnityBuildTarget>
+    <UnityVersion>5.3.5f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_5;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;ENABLE_RUNTIME_GI;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_NETWORK;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_TEXTUREID_MAP;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;PLATFORM_SUPPORTS_ADS_ID;SUPPORT_ENVIRONMENT_VARIABLES;PLATFORM_SUPPORTS_PROFILER;PLATFORM_HAS_NO_SUPPORT_FOR_BUCKET_ALLOCATOR;STRICTCPP_NEW_DELETE_SIGNATURES;WWW_USE_CURL;HAS_NEON_SKINNIG;UNITY_INPUT_SIMULATE_EVENTS;PLATFORM_ALWAYS_USES_STDOUT_FOR_LOG;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;UNITY_IOS;UNITY_IPHONE;UNITY_IPHONE_API;SUPPORT_MULTIPLE_DISPLAYS;ENABLE_IL2CPP;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_IOS_ON_DEMAND_RESOURCES;ENABLE_IOS_APP_SLICING</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_5;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;ENABLE_RUNTIME_GI;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_NETWORK;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_TEXTUREID_MAP;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;PLATFORM_SUPPORTS_ADS_ID;SUPPORT_ENVIRONMENT_VARIABLES;PLATFORM_SUPPORTS_PROFILER;PLATFORM_HAS_NO_SUPPORT_FOR_BUCKET_ALLOCATOR;STRICTCPP_NEW_DELETE_SIGNATURES;WWW_USE_CURL;HAS_NEON_SKINNIG;UNITY_INPUT_SIMULATE_EVENTS;PLATFORM_ALWAYS_USES_STDOUT_FOR_LOG;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;UNITY_IOS;UNITY_IPHONE;UNITY_IPHONE_API;SUPPORT_MULTIPLE_DISPLAYS;ENABLE_IL2CPP;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_IOS_ON_DEMAND_RESOURCES;ENABLE_IOS_APP_SLICING</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="GSDKUnityLib">
+      <HintPath>Assets\Plugins\GSDKUnityLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>Assets\Plugins\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleProtoParser">
+      <HintPath>Assets\Plugins\SimpleProtoParser.dll</HintPath>
+    </Reference>
+    <Reference Include="TDGAAnalytics">
+      <HintPath>Assets\Plugins\TDGAAnalytics.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>Assets\Plugins\DOTween\DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>Assets\Plugins\DOTween\DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>Assets\Plugins\DOTween\DOTween50.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="CatMainProject.Plugins.csproj">
+      <Project>{ACF52FC8-4C14-3BBE-F94A-3FDD0993A745}</Project>
+      <Name>CatMainProject.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Scripts\AppConfig.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\ConcurrentCache.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Data\DBHelp.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Data\DataFormat.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Data\JsonMemberAttribute.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Exceptions.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\IJsonConverter.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\IJsonDynamic.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Json\JsonArray.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Json\JsonObject.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Json\JsonPrimitive.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Json\JsonType.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Json\JsonValue.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\JsonContract.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\JsonDynamicList.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\JsonExtension.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\JsonFormatObject.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\JsonPrimitiveProvider.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\JsonProperty.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\JsonSerializer.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\JsonUtils.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\PropertySetter.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Runtime\Serialization\Json\JavaScriptObjectDeserializer.cs" />
+    <Compile Include="Assets\Scripts\Base\Json\Runtime\Serialization\Json\JavaScriptReader.cs" />
+    <Compile Include="Assets\Scripts\Base\Log\FileHelp.cs" />
+    <Compile Include="Assets\Scripts\Base\Log\ILogFile.cs" />
+    <Compile Include="Assets\Scripts\Base\Log\LogFile.cs" />
+    <Compile Include="Assets\Scripts\Base\Log\Logger.cs" />
+    <Compile Include="Assets\Scripts\Base\Log\ZipFile.cs" />
+    <Compile Include="Assets\Scripts\Base\Net\Connection.cs" />
+    <Compile Include="Assets\Scripts\Base\Net\ConnectionHelp.cs" />
+    <Compile Include="Assets\Scripts\Base\Net\SocketClient.cs" />
+    <Compile Include="Assets\Scripts\Base\Utility\CryptoHelp.cs" />
+    <Compile Include="Assets\Scripts\Base\Utility\Extentions.cs" />
+    <Compile Include="Assets\Scripts\Base\Utility\RandomHelp.cs" />
+    <Compile Include="Assets\Scripts\Base\Utility\ReflectorHelper.cs" />
+    <Compile Include="Assets\Scripts\CameraAbsoluteResolution.cs" />
+    <Compile Include="Assets\Scripts\Common\DelayController.cs" />
+    <Compile Include="Assets\Scripts\Common\EmptyMonoBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Common\TableView\ContentController.cs" />
+    <Compile Include="Assets\Scripts\Common\TableView\ITableViewDataSource.cs" />
+    <Compile Include="Assets\Scripts\Common\TableView\TableView.cs" />
+    <Compile Include="Assets\Scripts\Common\TableView\TableViewCell.cs" />
+    <Compile Include="Assets\Scripts\DontDestroyOnLoad.cs" />
+    <Compile Include="Assets\Scripts\GameApplication.cs" />
+    <Compile Include="Assets\Scripts\GameTestConfig.cs" />
+    <Compile Include="Assets\Scripts\GameViewHelper.cs" />
+    <Compile Include="Assets\Scripts\HotFix\CheckUpdate.cs" />
+    <Compile Include="Assets\Scripts\HotFix\HotFixReflector.cs" />
+    <Compile Include="Assets\Scripts\HotFix\HotFixScript.cs" />
+    <Compile Include="Assets\Scripts\HotFix\IHotFixMain.cs" />
+    <Compile Include="Assets\Scripts\HotFix\ResourceLoader.cs" />
+    <Compile Include="Assets\Scripts\HotFixPanel\HotFixPanel.cs" />
+    <Compile Include="Assets\Scripts\LogoAni\LogoAniController.cs" />
+    <Compile Include="Assets\Scripts\Manager\LogManager.cs" />
+    <Compile Include="Assets\Scripts\SDKTools.cs" />
+    <Compile Include="Assets\Scripts\TalkingDataScripts\TDGAAccount.cs" />
+    <Compile Include="Assets\Scripts\TalkingDataScripts\TDGAItem.cs" />
+    <Compile Include="Assets\Scripts\TalkingDataScripts\TDGAMission.cs" />
+    <Compile Include="Assets\Scripts\TalkingDataScripts\TDGAVirtualCurrency.cs" />
+    <Compile Include="Assets\Scripts\TalkingDataScripts\TalkingDataDemoScript.cs" />
+    <Compile Include="Assets\Scripts\TalkingDataScripts\TalkingDataGA.cs" />
+    <Compile Include="Assets\Scripts\TestToyScene\TestCatAnimationData.cs" />
+    <Compile Include="Assets\Scripts\TestToyScene\TestCatData.cs" />
+    <Compile Include="Assets\Scripts\TestToyScene\TestPlayPointLayerData.cs" />
+    <Compile Include="Assets\Scripts\TestToyScene\TestPointData.cs" />
+    <Compile Include="Assets\Scripts\TestToyScene\TestToyLayerData.cs" />
+    <Compile Include="Assets\Scripts\TestToyScene\ToyItem.cs" />
+    <Compile Include="Assets\Scripts\TestToyScene\ToyPreviewPanel.cs" />
+    <Compile Include="Assets\Scripts\TouchController\DragSensor.cs" />
+    <Compile Include="Assets\Scripts\TouchController\PointerSensor.cs" />
+    <Compile Include="Assets\Scripts\YoMobController.cs" />
+    <Compile Include="Assets\Scripts\advertisementcover.cs" />
+    <Compile Include="Assets\TGSDK\Example\ExampleScript.cs" />
+    <Compile Include="Assets\TGSDK\TGGameObject.cs" />
+    <Compile Include="Assets\TGSDK\TGPostBuild.cs" />
+    <Compile Include="Assets\TGSDK\TGSDK.cs" />
+    <Compile Include="Assets\TGSDK\TGSDKVersion.cs" />
+    <Compile Include="Assets\TestMask.cs" />
+    <Compile Include="Assets\XUPorter\MiniJSON\MiniJSON.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXBuildFile.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXBuildPhase.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXDictionary.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXFileReference.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXGroup.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXList.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXObject.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXParser.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXProject.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXSortedDictionary.cs" />
+    <Compile Include="Assets\XUPorter\PBX Editor\PBXVariantGroup.cs" />
+    <Compile Include="Assets\XUPorter\Plist\Plist.cs" />
+    <Compile Include="Assets\XUPorter\XCBuildConfiguration.cs" />
+    <Compile Include="Assets\XUPorter\XCConfigurationList.cs" />
+    <Compile Include="Assets\XUPorter\XCMod.cs" />
+    <Compile Include="Assets\XUPorter\XCPlist.cs" />
+    <Compile Include="Assets\XUPorter\XCProject.cs" />
+    <Compile Include="Assets\spine-csharp\Animation.cs" />
+    <Compile Include="Assets\spine-csharp\AnimationState.cs" />
+    <Compile Include="Assets\spine-csharp\AnimationStateData.cs" />
+    <Compile Include="Assets\spine-csharp\Atlas.cs" />
+    <Compile Include="Assets\spine-csharp\Attachments\AtlasAttachmentLoader.cs" />
+    <Compile Include="Assets\spine-csharp\Attachments\Attachment.cs" />
+    <Compile Include="Assets\spine-csharp\Attachments\AttachmentLoader.cs" />
+    <Compile Include="Assets\spine-csharp\Attachments\AttachmentType.cs" />
+    <Compile Include="Assets\spine-csharp\Attachments\BoundingBoxAttachment.cs" />
+    <Compile Include="Assets\spine-csharp\Attachments\MeshAttachment.cs" />
+    <Compile Include="Assets\spine-csharp\Attachments\RegionAttachment.cs" />
+    <Compile Include="Assets\spine-csharp\Attachments\WeightedMeshAttachment.cs" />
+    <Compile Include="Assets\spine-csharp\BlendMode.cs" />
+    <Compile Include="Assets\spine-csharp\Bone.cs" />
+    <Compile Include="Assets\spine-csharp\BoneData.cs" />
+    <Compile Include="Assets\spine-csharp\Event.cs" />
+    <Compile Include="Assets\spine-csharp\EventData.cs" />
+    <Compile Include="Assets\spine-csharp\ExposedList.cs" />
+    <Compile Include="Assets\spine-csharp\IUpdatable.cs" />
+    <Compile Include="Assets\spine-csharp\IkConstraint.cs" />
+    <Compile Include="Assets\spine-csharp\IkConstraintData.cs" />
+    <Compile Include="Assets\spine-csharp\Json.cs" />
+    <Compile Include="Assets\spine-csharp\MathUtils.cs" />
+    <Compile Include="Assets\spine-csharp\Skeleton.cs" />
+    <Compile Include="Assets\spine-csharp\SkeletonBinary.cs" />
+    <Compile Include="Assets\spine-csharp\SkeletonBounds.cs" />
+    <Compile Include="Assets\spine-csharp\SkeletonData.cs" />
+    <Compile Include="Assets\spine-csharp\SkeletonJson.cs" />
+    <Compile Include="Assets\spine-csharp\Skin.cs" />
+    <Compile Include="Assets\spine-csharp\Slot.cs" />
+    <Compile Include="Assets\spine-csharp\SlotData.cs" />
+    <Compile Include="Assets\spine-csharp\TransformConstraint.cs" />
+    <Compile Include="Assets\spine-csharp\TransformConstraintData.cs" />
+    <Compile Include="Assets\spine-unity\Asset Types\AtlasAsset.cs" />
+    <Compile Include="Assets\spine-unity\Asset Types\SkeletonDataAsset.cs" />
+    <Compile Include="Assets\spine-unity\BoneFollower.cs" />
+    <Compile Include="Assets\spine-unity\ISkeletonAnimation.cs" />
+    <Compile Include="Assets\spine-unity\Mesh Generation\DoubleBufferedMesh.cs" />
+    <Compile Include="Assets\spine-unity\Mesh Generation\Simple\ArraysSimpleMeshGenerator.cs" />
+    <Compile Include="Assets\spine-unity\Mesh Generation\Simple\ISimpleMeshGenerator.cs" />
+    <Compile Include="Assets\spine-unity\Mesh Generation\SpineMesh.cs" />
+    <Compile Include="Assets\spine-unity\Mesh Generation\Submeshed\ArraysSubmeshedMeshGenerator.cs" />
+    <Compile Include="Assets\spine-unity\Mesh Generation\Submeshed\ISubmeshedMeshGenerator.cs" />
+    <Compile Include="Assets\spine-unity\Modules\AtlasRegionAttacher.cs" />
+    <Compile Include="Assets\spine-unity\Modules\BoundingBoxFollower\BoundingBoxFollower.cs" />
+    <Compile Include="Assets\spine-unity\Modules\CustomSkin.cs" />
+    <Compile Include="Assets\spine-unity\Modules\Ghost\SkeletonGhost.cs" />
+    <Compile Include="Assets\spine-unity\Modules\Ghost\SkeletonGhostRenderer.cs" />
+    <Compile Include="Assets\spine-unity\Modules\Mesh Generation Samples\VertexHelperSpineMeshGenerator.cs" />
+    <Compile Include="Assets\spine-unity\Modules\Ragdoll\SkeletonRagdoll.cs" />
+    <Compile Include="Assets\spine-unity\Modules\Ragdoll\SkeletonRagdoll2D.cs" />
+    <Compile Include="Assets\spine-unity\Modules\SkeletonGraphic\SkeletonGraphic.cs" />
+    <Compile Include="Assets\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityEyeConstraint.cs" />
+    <Compile Include="Assets\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityGroundConstraint.cs" />
+    <Compile Include="Assets\spine-unity\Modules\SkeletonUtility Modules\SkeletonUtilityKinematicShadow.cs" />
+    <Compile Include="Assets\spine-unity\Modules\SpriteAttacher.cs" />
+    <Compile Include="Assets\spine-unity\Modules\TK2D\SpriteCollectionAttachmentLoader.cs" />
+    <Compile Include="Assets\spine-unity\Modules\YieldInstructions\WaitForSpineAnimationComplete.cs" />
+    <Compile Include="Assets\spine-unity\Modules\YieldInstructions\WaitForSpineEvent.cs" />
+    <Compile Include="Assets\spine-unity\SkeletonAnimation.cs" />
+    <Compile Include="Assets\spine-unity\SkeletonAnimator.cs" />
+    <Compile Include="Assets\spine-unity\SkeletonExtensions.cs" />
+    <Compile Include="Assets\spine-unity\SkeletonRenderer.cs" />
+    <Compile Include="Assets\spine-unity\SkeletonUtility\SkeletonUtility.cs" />
+    <Compile Include="Assets\spine-unity\SkeletonUtility\SkeletonUtilityBone.cs" />
+    <Compile Include="Assets\spine-unity\SkeletonUtility\SkeletonUtilityConstraint.cs" />
+    <Compile Include="Assets\spine-unity\SkeletonUtility\SkeletonUtilitySubmeshRenderer.cs" />
+    <Compile Include="Assets\spine-unity\SpineAttributes.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\res\drawable\ssdk_oks_classic_platform_cell_back.xml" />
+    <None Include="Assets\Plugins\Android\res\drawable\ssdk_oks_classic_progressbar.xml" />
+    <None Include="Assets\Plugins\Android\res\values-en\ssdk_oks_strings.xml" />
+    <None Include="Assets\Plugins\Android\res\values-en\ssdk_strings.xml" />
+    <None Include="Assets\Plugins\Android\res\values\ssdk_instapaper_strings.xml" />
+    <None Include="Assets\Plugins\Android\res\values\ssdk_oks_color_drawables.xml" />
+    <None Include="Assets\Plugins\Android\res\values\ssdk_oks_strings.xml" />
+    <None Include="Assets\Plugins\Android\res\values\ssdk_strings.xml" />
+    <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+    <None Include="Assets\Plugins\DOTween\DOTween.XML" />
+    <None Include="Assets\Plugins\DOTween\DOTween43.xml" />
+    <None Include="Assets\Plugins\DOTween\DOTween46.xml" />
+    <None Include="Assets\Plugins\DOTween\DOTween50.xml" />
+    <None Include="Assets\Plugins\DOTween\Editor\DOTweenEditor.XML" />
+    <None Include="Assets\Plugins\DOTween\readme.txt" />
+    <None Include="Assets\Plugins\GSDKUnityLib.XML" />
+    <None Include="Assets\Resources\HotFixPanel\loading1.atlas.txt" />
+    <None Include="Assets\Shaders\GrayImageShader.shader" />
+    <None Include="Assets\Shaders\MaskShader.shader" />
+    <None Include="Assets\link.xml" />
+    <None Include="Assets\spine-unity\Editor\Resources\SpineAssetDatabaseMarker.txt" />
+    <None Include="Assets\spine-unity\Modules\Ghost\Shaders\SkeletonGhost.shader" />
+    <None Include="Assets\spine-unity\Modules\SkeletonGraphic\Shaders\SkeletonGraphic.shader" />
+    <None Include="Assets\spine-unity\Shaders\Bones.shader" />
+    <None Include="Assets\spine-unity\Shaders\HiddenPass.shader" />
+    <None Include="Assets\spine-unity\Shaders\Skeleton.shader" />
+    <None Include="Assets\spine-unity\Shaders\SkeletonLit.shader" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>

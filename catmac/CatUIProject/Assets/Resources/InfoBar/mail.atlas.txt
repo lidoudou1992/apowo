@@ -1,0 +1,27 @@
+
+mail.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mail001
+  rotate: false
+  xy: 1, 1
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+mail002
+  rotate: false
+  xy: 73, 74
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+mail003
+  rotate: false
+  xy: 1, 25
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1

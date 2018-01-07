@@ -1,0 +1,20 @@
+
+bg_0007after.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 242
+  size: 1784, 405
+  orig: 1784, 405
+  offset: 0, 0
+  index: -1
+caihong
+  rotate: false
+  xy: 2, 2
+  size: 684, 238
+  orig: 684, 238
+  offset: 0, 0
+  index: -1

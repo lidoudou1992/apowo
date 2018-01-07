@@ -1,0 +1,153 @@
+
+bg_0002.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00010
+  rotate: false
+  xy: 2, 278
+  size: 115, 484
+  orig: 115, 484
+  offset: 0, 0
+  index: -1
+00011
+  rotate: false
+  xy: 1917, 1833
+  size: 111, 108
+  orig: 111, 108
+  offset: 0, 0
+  index: -1
+00012
+  rotate: false
+  xy: 119, 414
+  size: 135, 348
+  orig: 135, 348
+  offset: 0, 0
+  index: -1
+00013
+  rotate: false
+  xy: 443, 699
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+00014
+  rotate: false
+  xy: 1917, 1791
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+00015
+  rotate: false
+  xy: 52, 220
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+00016
+  rotate: false
+  xy: 256, 611
+  size: 185, 151
+  orig: 185, 151
+  offset: 0, 0
+  index: -1
+00017
+  rotate: false
+  xy: 1781, 1231
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+00018
+  rotate: true
+  xy: 1901, 1568
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+00019
+  rotate: false
+  xy: 2, 40
+  size: 48, 236
+  orig: 48, 236
+  offset: 0, 0
+  index: -1
+0002
+  rotate: false
+  xy: 2, 764
+  size: 1750, 1177
+  orig: 1750, 1177
+  offset: 0, 0
+  index: -1
+0003
+  rotate: false
+  xy: 1754, 1261
+  size: 145, 332
+  orig: 145, 332
+  offset: 0, 0
+  index: -1
+0004
+  rotate: false
+  xy: 1754, 1595
+  size: 161, 346
+  orig: 161, 346
+  offset: 0, 0
+  index: -1
+0005
+  rotate: false
+  xy: 119, 343
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+0006
+  rotate: false
+  xy: 1754, 1068
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+0007
+  rotate: false
+  xy: 2, 2
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+0008
+  rotate: false
+  xy: 1754, 1111
+  size: 25, 148
+  orig: 25, 148
+  offset: 0, 0
+  index: -1
+0009
+  rotate: false
+  xy: 256, 461
+  size: 25, 148
+  orig: 25, 148
+  offset: 0, 0
+  index: -1
+shuiwen1
+  rotate: false
+  xy: 256, 451
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shuiwen2
+  rotate: false
+  xy: 2030, 1926
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shuiwen3
+  rotate: false
+  xy: 283, 600
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1

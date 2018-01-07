@@ -1,0 +1,48 @@
+
+bg_0006after.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingzi 1
+  rotate: false
+  xy: 1710, 254
+  size: 142, 54
+  orig: 142, 54
+  offset: 0, 0
+  index: -1
+yingzi2
+  rotate: false
+  xy: 1710, 310
+  size: 178, 65
+  orig: 178, 65
+  offset: 0, 0
+  index: -1
+yuan_ychengbao
+  rotate: false
+  xy: 1710, 165
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+yuan_yyun1
+  rotate: false
+  xy: 1900, 409
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+yuanjing0
+  rotate: false
+  xy: 2, 2
+  size: 1706, 494
+  orig: 1706, 494
+  offset: 0, 0
+  index: -1
+yyuan_yun2
+  rotate: false
+  xy: 1710, 377
+  size: 188, 119
+  orig: 188, 119
+  offset: 0, 0
+  index: -1

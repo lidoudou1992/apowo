@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2887283494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2acc41d6bc7e227e90b70170d9fdf34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sound/Lottery1.mp3
+Dependencies: []

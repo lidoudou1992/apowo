@@ -1,0 +1,55 @@
+
+bg_0001before.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_0001_before
+  rotate: false
+  xy: 0, 170
+  size: 448, 260
+  orig: 448, 260
+  offset: 0, 0
+  index: -1
+yhudie01
+  rotate: false
+  xy: 0, 85
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+yhudie02
+  rotate: false
+  xy: 0, 0
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+yhudie03
+  rotate: false
+  xy: 98, 85
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+yhudie04
+  rotate: false
+  xy: 98, 0
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+yhudie05
+  rotate: false
+  xy: 196, 85
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+yhudie06
+  rotate: false
+  xy: 196, 0
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1

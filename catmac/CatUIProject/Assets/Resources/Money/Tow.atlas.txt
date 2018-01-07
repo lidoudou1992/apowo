@@ -1,0 +1,13 @@
+
+Tow.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Money001
+  rotate: false
+  xy: 1, 1
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1

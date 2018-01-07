@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f8fd1542baf7d70439380735a7d75ca2
+timeCreated: 1465370749
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: cat020_bgm
+  assetBundleVariant: 

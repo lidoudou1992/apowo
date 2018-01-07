@@ -1,0 +1,62 @@
+
+uimain5.png
+size: 282,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main001
+  rotate: true
+  xy: 1, 78
+  size: 79, 177
+  orig: 79, 177
+  offset: 0, 0
+  index: -1
+main002
+  rotate: true
+  xy: 147, 1
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+main002_1
+  rotate: true
+  xy: 71, 1
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+main002_2
+  rotate: true
+  xy: 180, 14
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+main002_3
+  rotate: true
+  xy: 109, 1
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+menu_button_c
+  rotate: true
+  xy: 1, 4
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+menua_3
+  rotate: false
+  xy: 180, 103
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1
+menua_31
+  rotate: false
+  xy: 180, 47
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1

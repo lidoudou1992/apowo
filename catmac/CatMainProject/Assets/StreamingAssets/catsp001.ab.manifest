@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 211076713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 446c440abeabd141e4118bac84ccf072
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8641a0fe7f1693d24d0a434267403d66
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Cat/catsp001.prefab
+Dependencies: []

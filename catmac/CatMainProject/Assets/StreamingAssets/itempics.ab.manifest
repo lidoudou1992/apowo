@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+CRC: 537459140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfb9e27a1d9f8376b38c0ab45462deaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pic/Item/Toy3047.png
+- Assets/Pic/Item/Toy3004.png
+- Assets/Pic/Item/Toy3059.png
+- Assets/Pic/Item/Toy3060.png
+- Assets/Pic/Item/Food2003.png
+- Assets/Pic/Item/Toy3035.png
+- Assets/Pic/Item/Cash002.png
+- Assets/Pic/Item/Toy3403.png
+- Assets/Pic/Item/Cash005.png
+- Assets/Pic/Item/Toy3063.png
+- Assets/Pic/Item/Toy3067.png
+- Assets/Pic/Item/Toy3045.png
+- Assets/Pic/Item/Toy3036.png
+- Assets/Pic/Item/Toy3304.png
+- Assets/Pic/Item/Toy3011.png
+- Assets/Pic/Item/Toy3504.png
+- Assets/Pic/Item/Toy3042.png
+- Assets/Pic/Item/Toy3037.png
+- Assets/Pic/Item/item20001.png
+- Assets/Pic/Item/item20002.png
+- Assets/Pic/Item/Toy3008.png
+- Assets/Pic/Item/Toy3305.png
+- Assets/Pic/Item/Toy3010.png
+- Assets/Pic/Item/Toy3201.png
+- Assets/Pic/Item/Toy3406.png
+- Assets/Pic/Item/Toy3043.png
+- Assets/Pic/Item/Toy3404.png
+- Assets/Pic/Item/Toy3046.png
+- Assets/Pic/Item/Toy3002.png
+- Assets/Pic/Item/Toy3048.png
+- Assets/Pic/Item/Toy3027.png
+- Assets/Pic/Item/Toy3052.png
+- Assets/Pic/Item/Toy3049.png
+- Assets/Pic/Item/item20000.png
+- Assets/Pic/Item/Toy3031.png
+- Assets/Pic/Item/Toy3028.png
+- Assets/Pic/Item/Toy3015.png
+- Assets/Pic/Item/Toy3405.png
+- Assets/Pic/Item/Toy3003.png
+- Assets/Pic/Item/Toy3202.png
+- Assets/Pic/Item/Toy3029.png
+- Assets/Pic/Item/Toy3039.png
+- Assets/Pic/Item/Food2001.png
+- Assets/Pic/Item/Toy3302.png
+- Assets/Pic/Item/Toy3034.png
+- Assets/Pic/Item/Toy3033.png
+- Assets/Pic/Item/Toy3025.png
+- Assets/Pic/Item/Toy3017.png
+- Assets/Pic/Item/Toy3014.png
+- Assets/Pic/Item/Cash004.png
+- Assets/Pic/Item/Toy3057.png
+- Assets/Pic/Item/Toy3056.png
+- Assets/Pic/Item/Toy3050.png
+- Assets/Pic/Item/Toy3005.png
+- Assets/Pic/Item/Food2005.png
+- Assets/Pic/Item/Toy3007.png
+- Assets/Pic/Item/Toy3044.png
+- Assets/Pic/Item/Toy3024.png
+- Assets/Pic/Item/Toy3402.png
+- Assets/Pic/Item/Toy3065.png
+- Assets/Pic/Item/Toy3030.png
+- Assets/Pic/Item/Toy3001.png
+- Assets/Pic/Item/Toy3064.png
+- Assets/Pic/Item/Toy3505.png
+- Assets/Pic/Item/Toy3502.png
+- Assets/Pic/Item/Toy3401.png
+- Assets/Pic/Item/Toy3066.png
+- Assets/Pic/Item/Toy3020.png
+- Assets/Pic/Item/Toy3054.png
+- Assets/Pic/Item/Toy3016.png
+- Assets/Pic/Item/Toy3018.png
+- Assets/Pic/Item/Toy3058.png
+- Assets/Pic/Item/Toy3501.png
+- Assets/Pic/Item/Cash001.png
+- Assets/Pic/Item/Food2004.png
+- Assets/Pic/Item/Toy3055.png
+- Assets/Pic/Item/Cash003.png
+- Assets/Pic/Item/Cash006.png
+- Assets/Pic/Item/Toy3022.png
+- Assets/Pic/Item/Food2006.png
+- Assets/Pic/Item/Toy3006.png
+- Assets/Pic/Item/Toy3061.png
+- Assets/Pic/Item/Toy3038.png
+- Assets/Pic/Item/Toy3062.png
+- Assets/Pic/Item/Toy3013.png
+- Assets/Pic/Item/Toy3023.png
+- Assets/Pic/Item/Toy3040.png
+- Assets/Pic/Item/Toy3009.png
+- Assets/Pic/Item/Food2002.png
+- Assets/Pic/Item/Toy3203.png
+- Assets/Pic/Item/Toy3503.png
+- Assets/Pic/Item/Toy3051.png
+- Assets/Pic/Item/Toy3506.png
+- Assets/Pic/Item/Toy3032.png
+Dependencies: []

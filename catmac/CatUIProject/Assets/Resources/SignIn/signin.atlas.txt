@@ -1,0 +1,13 @@
+
+signin.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+signin002
+  rotate: false
+  xy: 1, 1
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1

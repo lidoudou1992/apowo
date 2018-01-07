@@ -1,0 +1,56 @@
+﻿[
+  {
+    "Actions": [
+      {
+        "Type": "Say",
+        "Content": "猫主子赏赐了个“宝贝”"
+      },
+      {
+        "Type": "Say",
+        "Content": "赶紧去看看~"
+      },
+      {
+        "Type": "Say",
+        "Content": "点击“菜单”"
+      },
+      {
+        "Type": "ShowGesture",
+        "Content": "InfoBar#Button",
+        "GestureParams": "3#0#0#0"
+      },
+      {
+        "Type":"Say",
+        "Content":"选择“图鉴”"
+      },
+      {
+        "Type": "ShowGesture",
+        "Content": "SystemBar#PicBook",
+        "GestureParams": "1#0#0#0",
+        "MaskBorderParas":"0#50"
+      },
+      {
+        "Type": "SelectProp",
+        "Content": "HandbookPanel#HandbookCellItem",
+        "GestureParams": "3#0#20#0",
+        "PropParam": "6"
+      },
+      {
+        "Type":"Say",
+        "Content":"选择“猫的宝贝”"
+      },
+      {
+        "Type": "ShowGesture",
+        "Content": "CatPopup#GiftBtn",
+        "GestureParams": "3#0#0#0"
+      },
+      {
+        "Type":"Say",
+        "Content":"这么多宝贝需要收集啊~，铲屎官还需要多加努力啊~"
+      },
+      {
+        "Type":"SendMsg",
+        "Content":""
+      }
+    ]
+  }
+]

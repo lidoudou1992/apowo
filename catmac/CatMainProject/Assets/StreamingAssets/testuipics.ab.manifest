@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 362704110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fd4c29464447b302123bfaf60c6f8f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pic/TestUI/Next.png
+Dependencies: []

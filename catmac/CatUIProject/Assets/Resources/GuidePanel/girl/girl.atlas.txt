@@ -1,0 +1,454 @@
+
+girl.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_banzheng
+  rotate: false
+  xy: 1819, 792
+  size: 127, 62
+  orig: 127, 62
+  offset: 0, 0
+  index: -1
+girl_biyan
+  rotate: true
+  xy: 1555, 783
+  size: 120, 45
+  orig: 120, 45
+  offset: 0, 0
+  index: -1
+girl_bizui
+  rotate: false
+  xy: 916, 584
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+girl_bozi1
+  rotate: false
+  xy: 944, 323
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+girl_bozi4
+  rotate: true
+  xy: 1055, 559
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+girl_bozi5
+  rotate: true
+  xy: 1025, 528
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+girl_erduo
+  rotate: false
+  xy: 581, 731
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+girl_lian
+  rotate: false
+  xy: 634, 727
+  size: 151, 156
+  orig: 151, 156
+  offset: 0, 0
+  index: -1
+girl_meimao1
+  rotate: true
+  xy: 1386, 732
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+girl_meimao2
+  rotate: true
+  xy: 750, 687
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+girl_mz
+  rotate: false
+  xy: 136, 378
+  size: 241, 191
+  orig: 241, 191
+  offset: 0, 0
+  index: -1
+girl_mzhdj_1
+  rotate: false
+  xy: 1055, 523
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+girl_mzhdj_2
+  rotate: false
+  xy: 1723, 730
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+girl_mzhdj_3
+  rotate: true
+  xy: 2, 2
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+girl_mzhdj_4
+  rotate: true
+  xy: 958, 590
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1
+girl_piaodai1
+  rotate: false
+  xy: 379, 379
+  size: 66, 190
+  orig: 66, 190
+  offset: 0, 0
+  index: -1
+girl_piaodai2
+  rotate: true
+  xy: 435, 769
+  size: 114, 197
+  orig: 114, 197
+  offset: 0, 0
+  index: -1
+girl_piaodai3
+  rotate: false
+  xy: 1819, 856
+  size: 195, 166
+  orig: 195, 166
+  offset: 0, 0
+  index: -1
+girl_piaodai4
+  rotate: true
+  xy: 447, 443
+  size: 159, 132
+  orig: 159, 132
+  offset: 0, 0
+  index: -1
+girl_qugan1
+  rotate: false
+  xy: 406, 604
+  size: 173, 163
+  orig: 173, 163
+  offset: 0, 0
+  index: -1
+girl_qugan3
+  rotate: true
+  xy: 916, 604
+  size: 81, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+girl_qunzi1
+  rotate: false
+  xy: 581, 588
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+girl_qunzi10
+  rotate: true
+  xy: 2, 50
+  size: 325, 111
+  orig: 325, 111
+  offset: 0, 0
+  index: -1
+girl_qunzi2
+  rotate: false
+  xy: 1602, 821
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+girl_qunzi3
+  rotate: false
+  xy: 1609, 895
+  size: 208, 127
+  orig: 208, 127
+  offset: 0, 0
+  index: -1
+girl_qunzi4
+  rotate: false
+  xy: 581, 461
+  size: 146, 125
+  orig: 146, 125
+  offset: 0, 0
+  index: -1
+girl_qunzi7
+  rotate: false
+  xy: 2, 771
+  size: 431, 251
+  orig: 431, 251
+  offset: 0, 0
+  index: -1
+girl_qunzi8
+  rotate: false
+  xy: 1084, 895
+  size: 300, 127
+  orig: 300, 127
+  offset: 0, 0
+  index: -1
+girl_qunzi9
+  rotate: false
+  xy: 770, 905
+  size: 312, 117
+  orig: 312, 117
+  offset: 0, 0
+  index: -1
+girl_qunzidi1
+  rotate: false
+  xy: 435, 885
+  size: 333, 137
+  orig: 333, 137
+  offset: 0, 0
+  index: -1
+girl_qunzidi2
+  rotate: false
+  xy: 73, 5
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+girl_toufa1
+  rotate: false
+  xy: 2016, 866
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+girl_toufa2
+  rotate: false
+  xy: 1269, 786
+  size: 138, 107
+  orig: 138, 107
+  offset: 0, 0
+  index: -1
+girl_toufa3
+  rotate: true
+  xy: 875, 312
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+girl_toufa4
+  rotate: false
+  xy: 874, 485
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+girl_toufa5
+  rotate: true
+  xy: 1727, 815
+  size: 78, 90
+  orig: 78, 90
+  offset: 0, 0
+  index: -1
+girl_toufa6
+  rotate: false
+  xy: 136, 571
+  size: 268, 198
+  orig: 268, 198
+  offset: 0, 0
+  index: -1
+girl_toufa7
+  rotate: false
+  xy: 787, 687
+  size: 178, 89
+  orig: 178, 89
+  offset: 0, 0
+  index: -1
+girl_toufa7b
+  rotate: true
+  xy: 787, 778
+  size: 125, 182
+  orig: 125, 182
+  offset: 0, 0
+  index: -1
+girl_toufa8
+  rotate: true
+  xy: 952, 370
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+girl_weiba
+  rotate: true
+  xy: 967, 667
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+girl_yao1
+  rotate: false
+  xy: 1229, 699
+  size: 155, 85
+  orig: 155, 85
+  offset: 0, 0
+  index: -1
+girl_yao2
+  rotate: true
+  xy: 892, 370
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+girl_yao3
+  rotate: false
+  xy: 952, 445
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+girl_yao5
+  rotate: false
+  xy: 447, 368
+  size: 145, 73
+  orig: 145, 73
+  offset: 0, 0
+  index: -1
+girl_youdabi
+  rotate: true
+  xy: 739, 391
+  size: 79, 151
+  orig: 79, 151
+  offset: 0, 0
+  index: -1
+girl_youdatui
+  rotate: true
+  xy: 1386, 905
+  size: 117, 221
+  orig: 117, 221
+  offset: 0, 0
+  index: -1
+girl_youjiao
+  rotate: true
+  xy: 1602, 743
+  size: 76, 119
+  orig: 76, 119
+  offset: 0, 0
+  index: -1
+girl_youshou1
+  rotate: true
+  xy: 2016, 904
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+girl_youshou2
+  rotate: true
+  xy: 750, 582
+  size: 103, 164
+  orig: 103, 164
+  offset: 0, 0
+  index: -1
+girl_youshou2_1
+  rotate: true
+  xy: 594, 364
+  size: 95, 143
+  orig: 95, 143
+  offset: 0, 0
+  index: -1
+girl_youshou2_3
+  rotate: true
+  xy: 1082, 691
+  size: 101, 145
+  orig: 101, 145
+  offset: 0, 0
+  index: -1
+girl_youshou3
+  rotate: false
+  xy: 2016, 941
+  size: 28, 81
+  orig: 28, 81
+  offset: 0, 0
+  index: -1
+girl_youshou4
+  rotate: true
+  xy: 1051, 595
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+girl_youxiaobi
+  rotate: true
+  xy: 1948, 796
+  size: 58, 98
+  orig: 58, 98
+  offset: 0, 0
+  index: -1
+girl_youxiaotui
+  rotate: true
+  xy: 1082, 794
+  size: 99, 185
+  orig: 99, 185
+  offset: 0, 0
+  index: -1
+girl_zhangzui
+  rotate: false
+  xy: 406, 576
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+girl_zhengyan
+  rotate: false
+  xy: 1818, 728
+  size: 126, 62
+  orig: 126, 62
+  offset: 0, 0
+  index: -1
+girl_zuodabi
+  rotate: false
+  xy: 971, 776
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1
+girl_zuojiao
+  rotate: true
+  xy: 739, 318
+  size: 71, 134
+  orig: 71, 134
+  offset: 0, 0
+  index: -1
+girl_zuoshou1
+  rotate: false
+  xy: 1409, 798
+  size: 144, 105
+  orig: 144, 105
+  offset: 0, 0
+  index: -1
+girl_zuoshou1_1
+  rotate: true
+  xy: 729, 472
+  size: 108, 143
+  orig: 108, 143
+  offset: 0, 0
+  index: -1
+girl_zuotui
+  rotate: false
+  xy: 2, 377
+  size: 132, 392
+  orig: 132, 392
+  offset: 0, 0
+  index: -1
+girl_zuoxiaobi
+  rotate: false
+  xy: 952, 521
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1

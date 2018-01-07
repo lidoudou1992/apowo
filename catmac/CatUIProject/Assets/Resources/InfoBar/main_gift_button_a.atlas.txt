@@ -1,0 +1,69 @@
+
+main_gift_button_a.png
+size: 312,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liwu001
+  rotate: false
+  xy: 0, 40
+  size: 211, 53
+  orig: 211, 53
+  offset: 0, 0
+  index: -1
+liwu002
+  rotate: false
+  xy: 50, 6
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+liwu003
+  rotate: false
+  xy: 213, 52
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+liwu004
+  rotate: false
+  xy: 114, 4
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+liwu005
+  rotate: true
+  xy: 0, 0
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+liwu011
+  rotate: true
+  xy: 273, 56
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+liwu012
+  rotate: true
+  xy: 273, 17
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+liwu013
+  rotate: true
+  xy: 172, 1
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+liwu014
+  rotate: false
+  xy: 213, 11
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1

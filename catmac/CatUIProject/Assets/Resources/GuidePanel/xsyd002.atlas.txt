@@ -1,0 +1,20 @@
+
+xsyd002.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xsyd002
+  rotate: true
+  xy: 1, 36
+  size: 71, 145
+  orig: 71, 145
+  offset: 0, 0
+  index: -1
+xsyd0023
+  rotate: false
+  xy: 147, 1
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

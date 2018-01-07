@@ -1,0 +1,55 @@
+
+bg_0004before.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+als0018
+  rotate: false
+  xy: 899, 406
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+als0019
+  rotate: true
+  xy: 399, 222
+  size: 268, 322
+  orig: 268, 322
+  offset: 0, 0
+  index: -1
+als0021
+  rotate: false
+  xy: 2, 2
+  size: 121, 56
+  orig: 121, 56
+  offset: 0, 0
+  index: -1
+als0022
+  rotate: true
+  xy: 447, 19
+  size: 158, 316
+  orig: 158, 316
+  offset: 0, 0
+  index: -1
+als0025
+  rotate: true
+  xy: 2, 60
+  size: 146, 443
+  orig: 146, 443
+  offset: 0, 0
+  index: -1
+als012
+  rotate: false
+  xy: 2, 208
+  size: 395, 282
+  orig: 395, 282
+  offset: 0, 0
+  index: -1
+als020
+  rotate: true
+  xy: 723, 179
+  size: 311, 174
+  orig: 311, 174
+  offset: 0, 0
+  index: -1

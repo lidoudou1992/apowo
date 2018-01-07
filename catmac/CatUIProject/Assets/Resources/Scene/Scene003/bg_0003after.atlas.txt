@@ -1,0 +1,41 @@
+
+bg_0003after.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c0002ee
+  rotate: true
+  xy: 261, 225
+  size: 21, 242
+  orig: 21, 242
+  offset: 0, 0
+  index: -1
+yun_h1
+  rotate: true
+  xy: 237, 13
+  size: 116, 59
+  orig: 116, 59
+  offset: 0, 0
+  index: -1
+yun_h2
+  rotate: false
+  xy: 261, 151
+  size: 164, 72
+  orig: 164, 72
+  offset: 0, 0
+  index: -1
+yun_q1
+  rotate: false
+  xy: 1, 1
+  size: 234, 128
+  orig: 234, 128
+  offset: 0, 0
+  index: -1
+yun_q2
+  rotate: false
+  xy: 1, 131
+  size: 258, 115
+  orig: 258, 115
+  offset: 0, 0
+  index: -1

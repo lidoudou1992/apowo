@@ -1,0 +1,1 @@
+[{"ID":20000,"Name":"房屋扩张","Description":"扩大房屋的面积，可以放置更多的玩具，吸引更加多的喵星人","Available":true,"CanInBag":false,"AlwaysInShop":false,"Functions":[],"TypeID":1,"NotDelete":false,"Price":400,"Currency":1,"Unit":1,"OwnerCount":1,"AffectRefreshQualityCat":0,"AffectRefreshCat":0,"AffectCoin":0,"IsBuyAndUse":true,"Flag":0,"Code":"item20000"}]

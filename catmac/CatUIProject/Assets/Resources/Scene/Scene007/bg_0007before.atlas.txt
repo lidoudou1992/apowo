@@ -1,0 +1,34 @@
+
+bg_0007before.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bbt_01
+  rotate: false
+  xy: 2, 2
+  size: 220, 249
+  orig: 220, 249
+  offset: 0, 0
+  index: -1
+bbt_02
+  rotate: false
+  xy: 417, 106
+  size: 123, 145
+  orig: 123, 145
+  offset: 0, 0
+  index: -1
+gd_01
+  rotate: false
+  xy: 224, 43
+  size: 191, 208
+  orig: 191, 208
+  offset: 0, 0
+  index: -1
+gd_02
+  rotate: false
+  xy: 542, 167
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1

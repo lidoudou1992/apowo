@@ -1,0 +1,13 @@
+
+bg_0002after.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: false
+  xy: 2, 2
+  size: 1341, 138
+  orig: 1341, 138
+  offset: 0, 0
+  index: -1

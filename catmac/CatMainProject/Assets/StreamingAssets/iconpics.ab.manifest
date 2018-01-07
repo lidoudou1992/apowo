@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3275177533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29cdb4229c4d81afa121519deacaee43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pic/Icon/Ach0501.png
+- Assets/Pic/Icon/Ach0801.png
+- Assets/Pic/Icon/GoldFish.png
+- Assets/Pic/Icon/Ach0101.png
+- Assets/Pic/Icon/SilverFish.png
+- Assets/Pic/Icon/Ach0102.png
+- Assets/Pic/Icon/Ach0701.png
+- Assets/Pic/Icon/Ach0601.png
+- Assets/Pic/Icon/Ach0301.png
+- Assets/Pic/Icon/Ach0201.png
+- Assets/Pic/Icon/Ach0103.png
+- Assets/Pic/Icon/Ach0401.png
+Dependencies: []

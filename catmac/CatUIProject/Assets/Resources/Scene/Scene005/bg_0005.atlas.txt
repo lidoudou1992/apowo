@@ -1,0 +1,195 @@
+
+bg_0005.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_04
+  rotate: true
+  xy: 1715, 1345
+  size: 518, 230
+  orig: 518, 230
+  offset: 0, 0
+  index: -1
+bg_a
+  rotate: false
+  xy: 2, 686
+  size: 1711, 1177
+  orig: 1711, 1177
+  offset: 0, 0
+  index: -1
+bg_b
+  rotate: false
+  xy: 2, 336
+  size: 653, 348
+  orig: 653, 348
+  offset: 0, 0
+  index: -1
+binxue_01
+  rotate: false
+  xy: 1863, 1328
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+binxue_01a
+  rotate: false
+  xy: 2, 2
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+binxue_01b
+  rotate: false
+  xy: 746, 527
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+guang_fen
+  rotate: false
+  xy: 1715, 1048
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+guang_lan
+  rotate: false
+  xy: 657, 478
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+guang_meng
+  rotate: false
+  xy: 1947, 1703
+  size: 49, 160
+  orig: 49, 160
+  offset: 0, 0
+  index: -1
+guang_shen_01
+  rotate: false
+  xy: 2, 64
+  size: 234, 115
+  orig: 234, 115
+  offset: 0, 0
+  index: -1
+guang_shen_02
+  rotate: false
+  xy: 458, 230
+  size: 193, 104
+  orig: 193, 104
+  offset: 0, 0
+  index: -1
+guang_shen_03
+  rotate: false
+  xy: 657, 567
+  size: 243, 117
+  orig: 243, 117
+  offset: 0, 0
+  index: -1
+guang_shen_04
+  rotate: true
+  xy: 1715, 1092
+  size: 251, 101
+  orig: 251, 101
+  offset: 0, 0
+  index: -1
+guang_shen_05
+  rotate: false
+  xy: 238, 118
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+guang_shen_06
+  rotate: false
+  xy: 1818, 1277
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+guang_shen_07
+  rotate: false
+  xy: 657, 411
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+guang_shen_08
+  rotate: false
+  xy: 1947, 1629
+  size: 19, 72
+  orig: 19, 72
+  offset: 0, 0
+  index: -1
+guang_shen_09
+  rotate: false
+  xy: 1998, 1802
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+guang_shen_10
+  rotate: true
+  xy: 458, 183
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+guang_xie
+  rotate: false
+  xy: 902, 615
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+taijie_00
+  rotate: false
+  xy: 1789, 1063
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+taijie_01
+  rotate: false
+  xy: 1715, 1019
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+taijie_02
+  rotate: false
+  xy: 902, 587
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+taijie_03
+  rotate: false
+  xy: 972, 659
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+taijie_04
+  rotate: false
+  xy: 1998, 1774
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+taijie_05
+  rotate: false
+  xy: 1818, 1249
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+yanhuo
+  rotate: false
+  xy: 2, 181
+  size: 454, 153
+  orig: 454, 153
+  offset: 0, 0
+  index: -1

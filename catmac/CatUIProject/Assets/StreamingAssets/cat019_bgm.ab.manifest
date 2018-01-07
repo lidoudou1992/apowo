@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2108464910
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c4bd6384eb6edbdc56b138a7d9b1270
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sound/cat019_bgm.mp3
+Dependencies: []

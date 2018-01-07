@@ -1,0 +1,46 @@
+﻿[
+  {
+    "Actions": [
+      {
+        "Type": "Say",
+        "Content": "院子扩容后可以放更多的猫玩具了！商店里也开放了更多的猫玩具了。"
+      },
+      {
+        "Type": "Say",
+        "Content": "注意屋内也需要放猫粮，不然屋内猫主子不会光临哦~"
+      },
+      {
+        "Type": "Say",
+        "Content": "现在可以购买不同风格的院子！\n选择“场景更换”",
+        "StartPanel": "ShopPanel",
+        "BlockContinue":true
+      },
+      {
+        "Type": "ShowGesture",
+        "Content": "SystemBar#Scene",
+        "GestureParams": "1#0#0#0",
+        "MaskBorderParas": "0#50"
+      },
+      {
+        "Type": "Say",
+        "Content": "不同的院子，可是有各种不同的加成效果的哦，\n有些特殊猫也只会出现在特定的场景中呢"
+      },
+      {
+        "Type": "Say",
+        "Content": "还不赶紧买一个院子试试看？"
+      },
+      {
+        "Type": "Say",
+        "Content": "金鱼干不够？"
+      },
+      {
+        "Type": "Say",
+        "Content": "本喵先赏赐你点鱼干，记得省着点用哦\n 获得200银鱼干，30金鱼干"
+      },
+      {
+        "Type": "SendMsg",
+        "Content": ""
+      }
+    ]
+  }
+]

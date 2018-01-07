@@ -1,0 +1,95 @@
+<linker>
+	<assembly fullname="GSDKUnityLib">
+			<namespace fullname="GSDKUnityLib" preserve="all"/>
+      <namespace fullname="GSDKUnityLib.Pay" preserve="all"/>
+      <type fullname="GSDKUnityLib.Pay.PayInfo" preserve="all"/>
+      <type fullname="GSDKUnityLib.Pay.PayResultInfo" preserve="all"/>
+      <type fullname="GSDKUnityLib.Pay.EPayResultStatus" preserve="all"/>
+      <type fullname="GSDKUnityLib.GSDK" preserve="all"/>
+    </assembly>
+  <assembly fullname="mscorlib">
+    <namespace fullname="System" preserve="all"/>
+    <type fullname="System.TimeSpan" preserve="all"/>
+    <type fullname="System.DateTime" preserve="all"/>
+  </assembly>
+    <assembly fullname="System">
+       	<namespace fullname="System.Collections" preserve="all"/>
+       	<namespace fullname="System.Collections.Generic" preserve="all"/>
+		    <type fullname="System.ComponentModel.TypeDescriptor" preserve="all"/>
+		    <type fullname="System.ComponentModel.TypeConverter" preserve="all"/>
+		    <type fullname="System.ComponentModel.StringConverter" preserve="all"/>
+		    <type fullname="System.ComponentModel.BooleanConverter" preserve="all"/>
+		    <type fullname="System.ComponentModel.EnumConverter" preserve="all"/>
+		    <type fullname="System.ComponentModel.Int64Converter" preserve="all"/>
+		    <type fullname="System.ComponentModel.Int32Converter" preserve="all"/>
+		    <type fullname="System.ComponentModel.UInt32Converter" preserve="all"/>
+		    <type fullname="System.ComponentModel.Int16Converter" preserve="all"/>
+		    <type fullname="System.ComponentModel.ArrayConverter" preserve="all"/>
+		    <type fullname="System.ComponentModel.CollectionConverter" preserve="all"/>
+		    <type fullname="System.ComponentModel.DecimalConverter" preserve="all"/>
+		    <type fullname="System.ComponentModel.SingleConverter" preserve="all"/>
+		    <type fullname="System.ComponentModel.DoubleConverter" preserve="all"/>
+		    <type fullname="System.Net.WebRequest" preserve="all"/>
+		    <type fullname="System.Net.NetworkCredential" preserve="all"/>
+		    <type fullname="System.Net.FtpWebRequest" preserve="all"/>
+    </assembly>
+    <assembly fullname="System.Core">
+       	<type fullname="System.Linq.Enumerable" preserve="all"/>
+    </assembly>
+    <assembly fullname="Assembly-CSharp-firstpass">
+       	<namespace fullname="CLRSharp" preserve="all"/>
+       	<namespace fullname="System.Json" preserve="all"/>
+    </assembly>
+		<assembly fullname="UnityEngine">
+			  <namespace fullname="UnityEngine.Events" preserve="all"/>
+			  <type fullname="UnityEngine.Events.UnityAction" preserve="all"/>
+        <type fullname="UnityEngine.Particle" preserve="all"/>
+        <type fullname="UnityEngine.ParticleAnimator" preserve="all"/>
+        <type fullname="UnityEngine.ParticleEmitter" preserve="all"/>
+        <type fullname="UnityEngine.ParticleRenderer" preserve="all"/>
+        <type fullname="UnityEngine.ParticleRenderMode" preserve="all"/>
+			  <type fullname="UnityEngine.PlayerPrefs" preserve="all"/>
+			  <type fullname="UnityEngine.LayerMask" preserve="all"/>
+			  <type fullname="UnityEngine.Canvas" preserve="all"/>
+			  <type fullname="UnityEngine.RenderMode" preserve="all"/>
+			  <type fullname="UnityEngine.GameObject" preserve="all"/>
+			  <type fullname="UnityEngine.AudioListener" preserve="all"/>
+        <type fullname="UnityEngine.AudioClip" preserve="all"/>
+        <type fullname="UnityEngine.AudioSource" preserve="all"/>
+        <type fullname="UnityEngine.Transform" preserve="all"/>
+			  <type fullname="UnityEngine.Font" preserve="all"/>
+			  <type fullname="UnityEngine.Animator" preserve="all"/>
+			  <type fullname="UnityEngine.StaticBatchingUtility" preserve="all"/>
+			  <type fullname="UnityEngine.BoxCollider" preserve="all"/>
+			  <type fullname="UnityEngine.CapsuleCollider" preserve="all"/>
+			  <type fullname="UnityEngine.MeshCollider" preserve="all"/>
+			  <type fullname="UnityEngine.GameObject" preserve="all"/>
+			  <type fullname="UnityEngine.Projector" preserve="all"/>
+			  <type fullname="UnityEngine.Vector2" preserve="all"/>
+			  <type fullname="UnityEngine.AndroidJavaClass" preserve="all"/>
+			  <type fullname="UnityEngine.RuntimePlatform" preserve="all"/>
+			  <type fullname="UnityEngine.Time" preserve="all"/>
+        <type fullname="UnityEngine.RaycastHit2D" preserve="all"/>
+        <type fullname="UnityEngine.PolygonCollider2D" preserve="all"/>
+        <type fullname="UnityEngine.Physics2D" preserve="all"/>
+        <type fullname="UnityEngine.Application" preserve="all"/>
+        <type fullname="UnityEngine.Shader" preserve="all"/>
+        <type fullname="UnityEngine.Material" preserve="all"/>
+        <type fullname="UnityEngine.Sprite" preserve="all"/>
+        <type fullname="UnityEngine.WWW" preserve="all"/>
+        <type fullname="UnityEngine.Texture2D" preserve="all"/>
+        <type fullname="UnityEngine.SystemInfo" preserve="all"/>
+        <type fullname="UnityEngine.Application" preserve="all"/>
+        <type fullname="UnityEngine.RuntimePlatform" preserve="all"/>
+        <type fullname="UnityEngine.iOS.Device" preserve="all"/>
+    </assembly>
+		<assembly fullname="UnityEngine.UI">
+			  <namespace fullname="UnityEngine.EventSystems" preserve="all"/>
+			  <namespace fullname="UnityEngine.UI" preserve="all"/>
+			  <namespace fullname="UnityEngine.UI.LayoutGroup" preserve="all"/>
+			  <namespace fullname="UnityEngine.UI.GridLayoutGroup" preserve="all"/>
+		</assembly>
+		<assembly fullname="SimpleProtoParser">
+			  <namespace fullname="ProtoBuf" preserve="all"/>
+		</assembly>
+</linker>

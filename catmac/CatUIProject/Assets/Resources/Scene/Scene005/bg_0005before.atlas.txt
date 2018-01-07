@@ -1,0 +1,27 @@
+
+bg_0005before.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_01
+  rotate: false
+  xy: 2, 2
+  size: 132, 204
+  orig: 132, 204
+  offset: 0, 0
+  index: -1
+ball_02
+  rotate: false
+  xy: 277, 124
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+ball_03
+  rotate: false
+  xy: 136, 33
+  size: 139, 173
+  orig: 139, 173
+  offset: 0, 0
+  index: -1
